@@ -1,0 +1,7954 @@
+[
+  {
+    "id": "fwc00",
+    "codigo": "FWC00",
+    "nome": "Página inicial - figurinha 00",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 1
+  },
+  {
+    "id": "fwc1",
+    "codigo": "FWC1",
+    "nome": "FIFA World Cup History - figurinha 1",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 2
+  },
+  {
+    "id": "fwc2",
+    "codigo": "FWC2",
+    "nome": "FIFA World Cup History - figurinha 2",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 3
+  },
+  {
+    "id": "fwc3",
+    "codigo": "FWC3",
+    "nome": "FIFA World Cup History - figurinha 3",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 4
+  },
+  {
+    "id": "fwc4",
+    "codigo": "FWC4",
+    "nome": "FIFA World Cup History - figurinha 4",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 5
+  },
+  {
+    "id": "fwc5",
+    "codigo": "FWC5",
+    "nome": "FIFA World Cup History - figurinha 5",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 6
+  },
+  {
+    "id": "fwc6",
+    "codigo": "FWC6",
+    "nome": "FIFA World Cup History - figurinha 6",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 7
+  },
+  {
+    "id": "fwc7",
+    "codigo": "FWC7",
+    "nome": "FIFA World Cup History - figurinha 7",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 8
+  },
+  {
+    "id": "fwc8",
+    "codigo": "FWC8",
+    "nome": "FIFA World Cup History - figurinha 8",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 9
+  },
+  {
+    "id": "fwc9",
+    "codigo": "FWC9",
+    "nome": "FIFA World Cup History - figurinha 9",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 10
+  },
+  {
+    "id": "fwc10",
+    "codigo": "FWC10",
+    "nome": "FIFA World Cup History - figurinha 10",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 11
+  },
+  {
+    "id": "fwc11",
+    "codigo": "FWC11",
+    "nome": "FIFA World Cup History - figurinha 11",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 12
+  },
+  {
+    "id": "fwc12",
+    "codigo": "FWC12",
+    "nome": "FIFA World Cup History - figurinha 12",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 13
+  },
+  {
+    "id": "fwc13",
+    "codigo": "FWC13",
+    "nome": "FIFA World Cup History - figurinha 13",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 14
+  },
+  {
+    "id": "fwc14",
+    "codigo": "FWC14",
+    "nome": "FIFA World Cup History - figurinha 14",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 15
+  },
+  {
+    "id": "fwc15",
+    "codigo": "FWC15",
+    "nome": "FIFA World Cup History - figurinha 15",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 16
+  },
+  {
+    "id": "fwc16",
+    "codigo": "FWC16",
+    "nome": "FIFA World Cup History - figurinha 16",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 17
+  },
+  {
+    "id": "fwc17",
+    "codigo": "FWC17",
+    "nome": "FIFA World Cup History - figurinha 17",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 18
+  },
+  {
+    "id": "fwc18",
+    "codigo": "FWC18",
+    "nome": "FIFA World Cup History - figurinha 18",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 19
+  },
+  {
+    "id": "fwc19",
+    "codigo": "FWC19",
+    "nome": "FIFA World Cup History - figurinha 19",
+    "grupo": "Extras",
+    "secao": "FIFA World Cup History",
+    "ordem": 20
+  },
+  {
+    "id": "mex1",
+    "codigo": "MEX1",
+    "nome": "México - figurinha 1",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 21
+  },
+  {
+    "id": "mex2",
+    "codigo": "MEX2",
+    "nome": "México - figurinha 2",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 22
+  },
+  {
+    "id": "mex3",
+    "codigo": "MEX3",
+    "nome": "México - figurinha 3",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 23
+  },
+  {
+    "id": "mex4",
+    "codigo": "MEX4",
+    "nome": "México - figurinha 4",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 24
+  },
+  {
+    "id": "mex5",
+    "codigo": "MEX5",
+    "nome": "México - figurinha 5",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 25
+  },
+  {
+    "id": "mex6",
+    "codigo": "MEX6",
+    "nome": "México - figurinha 6",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 26
+  },
+  {
+    "id": "mex7",
+    "codigo": "MEX7",
+    "nome": "México - figurinha 7",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 27
+  },
+  {
+    "id": "mex8",
+    "codigo": "MEX8",
+    "nome": "México - figurinha 8",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 28
+  },
+  {
+    "id": "mex9",
+    "codigo": "MEX9",
+    "nome": "México - figurinha 9",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 29
+  },
+  {
+    "id": "mex10",
+    "codigo": "MEX10",
+    "nome": "México - figurinha 10",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 30
+  },
+  {
+    "id": "mex11",
+    "codigo": "MEX11",
+    "nome": "México - figurinha 11",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 31
+  },
+  {
+    "id": "mex12",
+    "codigo": "MEX12",
+    "nome": "México - figurinha 12",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 32
+  },
+  {
+    "id": "mex13",
+    "codigo": "MEX13",
+    "nome": "México - figurinha 13",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 33
+  },
+  {
+    "id": "mex14",
+    "codigo": "MEX14",
+    "nome": "México - figurinha 14",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 34
+  },
+  {
+    "id": "mex15",
+    "codigo": "MEX15",
+    "nome": "México - figurinha 15",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 35
+  },
+  {
+    "id": "mex16",
+    "codigo": "MEX16",
+    "nome": "México - figurinha 16",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 36
+  },
+  {
+    "id": "mex17",
+    "codigo": "MEX17",
+    "nome": "México - figurinha 17",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 37
+  },
+  {
+    "id": "mex18",
+    "codigo": "MEX18",
+    "nome": "México - figurinha 18",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 38
+  },
+  {
+    "id": "mex19",
+    "codigo": "MEX19",
+    "nome": "México - figurinha 19",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 39
+  },
+  {
+    "id": "mex20",
+    "codigo": "MEX20",
+    "nome": "México - figurinha 20",
+    "grupo": "Grupo A",
+    "secao": "México",
+    "ordem": 40
+  },
+  {
+    "id": "rsa1",
+    "codigo": "RSA1",
+    "nome": "África do Sul - figurinha 1",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 41
+  },
+  {
+    "id": "rsa2",
+    "codigo": "RSA2",
+    "nome": "África do Sul - figurinha 2",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 42
+  },
+  {
+    "id": "rsa3",
+    "codigo": "RSA3",
+    "nome": "África do Sul - figurinha 3",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 43
+  },
+  {
+    "id": "rsa4",
+    "codigo": "RSA4",
+    "nome": "África do Sul - figurinha 4",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 44
+  },
+  {
+    "id": "rsa5",
+    "codigo": "RSA5",
+    "nome": "África do Sul - figurinha 5",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 45
+  },
+  {
+    "id": "rsa6",
+    "codigo": "RSA6",
+    "nome": "África do Sul - figurinha 6",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 46
+  },
+  {
+    "id": "rsa7",
+    "codigo": "RSA7",
+    "nome": "África do Sul - figurinha 7",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 47
+  },
+  {
+    "id": "rsa8",
+    "codigo": "RSA8",
+    "nome": "África do Sul - figurinha 8",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 48
+  },
+  {
+    "id": "rsa9",
+    "codigo": "RSA9",
+    "nome": "África do Sul - figurinha 9",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 49
+  },
+  {
+    "id": "rsa10",
+    "codigo": "RSA10",
+    "nome": "África do Sul - figurinha 10",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 50
+  },
+  {
+    "id": "rsa11",
+    "codigo": "RSA11",
+    "nome": "África do Sul - figurinha 11",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 51
+  },
+  {
+    "id": "rsa12",
+    "codigo": "RSA12",
+    "nome": "África do Sul - figurinha 12",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 52
+  },
+  {
+    "id": "rsa13",
+    "codigo": "RSA13",
+    "nome": "África do Sul - figurinha 13",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 53
+  },
+  {
+    "id": "rsa14",
+    "codigo": "RSA14",
+    "nome": "África do Sul - figurinha 14",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 54
+  },
+  {
+    "id": "rsa15",
+    "codigo": "RSA15",
+    "nome": "África do Sul - figurinha 15",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 55
+  },
+  {
+    "id": "rsa16",
+    "codigo": "RSA16",
+    "nome": "África do Sul - figurinha 16",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 56
+  },
+  {
+    "id": "rsa17",
+    "codigo": "RSA17",
+    "nome": "África do Sul - figurinha 17",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 57
+  },
+  {
+    "id": "rsa18",
+    "codigo": "RSA18",
+    "nome": "África do Sul - figurinha 18",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 58
+  },
+  {
+    "id": "rsa19",
+    "codigo": "RSA19",
+    "nome": "África do Sul - figurinha 19",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 59
+  },
+  {
+    "id": "rsa20",
+    "codigo": "RSA20",
+    "nome": "África do Sul - figurinha 20",
+    "grupo": "Grupo A",
+    "secao": "África do Sul",
+    "ordem": 60
+  },
+  {
+    "id": "kor1",
+    "codigo": "KOR1",
+    "nome": "Coreia do Sul - figurinha 1",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 61
+  },
+  {
+    "id": "kor2",
+    "codigo": "KOR2",
+    "nome": "Coreia do Sul - figurinha 2",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 62
+  },
+  {
+    "id": "kor3",
+    "codigo": "KOR3",
+    "nome": "Coreia do Sul - figurinha 3",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 63
+  },
+  {
+    "id": "kor4",
+    "codigo": "KOR4",
+    "nome": "Coreia do Sul - figurinha 4",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 64
+  },
+  {
+    "id": "kor5",
+    "codigo": "KOR5",
+    "nome": "Coreia do Sul - figurinha 5",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 65
+  },
+  {
+    "id": "kor6",
+    "codigo": "KOR6",
+    "nome": "Coreia do Sul - figurinha 6",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 66
+  },
+  {
+    "id": "kor7",
+    "codigo": "KOR7",
+    "nome": "Coreia do Sul - figurinha 7",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 67
+  },
+  {
+    "id": "kor8",
+    "codigo": "KOR8",
+    "nome": "Coreia do Sul - figurinha 8",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 68
+  },
+  {
+    "id": "kor9",
+    "codigo": "KOR9",
+    "nome": "Coreia do Sul - figurinha 9",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 69
+  },
+  {
+    "id": "kor10",
+    "codigo": "KOR10",
+    "nome": "Coreia do Sul - figurinha 10",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 70
+  },
+  {
+    "id": "kor11",
+    "codigo": "KOR11",
+    "nome": "Coreia do Sul - figurinha 11",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 71
+  },
+  {
+    "id": "kor12",
+    "codigo": "KOR12",
+    "nome": "Coreia do Sul - figurinha 12",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 72
+  },
+  {
+    "id": "kor13",
+    "codigo": "KOR13",
+    "nome": "Coreia do Sul - figurinha 13",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 73
+  },
+  {
+    "id": "kor14",
+    "codigo": "KOR14",
+    "nome": "Coreia do Sul - figurinha 14",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 74
+  },
+  {
+    "id": "kor15",
+    "codigo": "KOR15",
+    "nome": "Coreia do Sul - figurinha 15",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 75
+  },
+  {
+    "id": "kor16",
+    "codigo": "KOR16",
+    "nome": "Coreia do Sul - figurinha 16",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 76
+  },
+  {
+    "id": "kor17",
+    "codigo": "KOR17",
+    "nome": "Coreia do Sul - figurinha 17",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 77
+  },
+  {
+    "id": "kor18",
+    "codigo": "KOR18",
+    "nome": "Coreia do Sul - figurinha 18",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 78
+  },
+  {
+    "id": "kor19",
+    "codigo": "KOR19",
+    "nome": "Coreia do Sul - figurinha 19",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 79
+  },
+  {
+    "id": "kor20",
+    "codigo": "KOR20",
+    "nome": "Coreia do Sul - figurinha 20",
+    "grupo": "Grupo A",
+    "secao": "Coreia do Sul",
+    "ordem": 80
+  },
+  {
+    "id": "cze1",
+    "codigo": "CZE1",
+    "nome": "Rep. Tcheca - figurinha 1",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 81
+  },
+  {
+    "id": "cze2",
+    "codigo": "CZE2",
+    "nome": "Rep. Tcheca - figurinha 2",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 82
+  },
+  {
+    "id": "cze3",
+    "codigo": "CZE3",
+    "nome": "Rep. Tcheca - figurinha 3",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 83
+  },
+  {
+    "id": "cze4",
+    "codigo": "CZE4",
+    "nome": "Rep. Tcheca - figurinha 4",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 84
+  },
+  {
+    "id": "cze5",
+    "codigo": "CZE5",
+    "nome": "Rep. Tcheca - figurinha 5",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 85
+  },
+  {
+    "id": "cze6",
+    "codigo": "CZE6",
+    "nome": "Rep. Tcheca - figurinha 6",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 86
+  },
+  {
+    "id": "cze7",
+    "codigo": "CZE7",
+    "nome": "Rep. Tcheca - figurinha 7",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 87
+  },
+  {
+    "id": "cze8",
+    "codigo": "CZE8",
+    "nome": "Rep. Tcheca - figurinha 8",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 88
+  },
+  {
+    "id": "cze9",
+    "codigo": "CZE9",
+    "nome": "Rep. Tcheca - figurinha 9",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 89
+  },
+  {
+    "id": "cze10",
+    "codigo": "CZE10",
+    "nome": "Rep. Tcheca - figurinha 10",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 90
+  },
+  {
+    "id": "cze11",
+    "codigo": "CZE11",
+    "nome": "Rep. Tcheca - figurinha 11",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 91
+  },
+  {
+    "id": "cze12",
+    "codigo": "CZE12",
+    "nome": "Rep. Tcheca - figurinha 12",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 92
+  },
+  {
+    "id": "cze13",
+    "codigo": "CZE13",
+    "nome": "Rep. Tcheca - figurinha 13",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 93
+  },
+  {
+    "id": "cze14",
+    "codigo": "CZE14",
+    "nome": "Rep. Tcheca - figurinha 14",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 94
+  },
+  {
+    "id": "cze15",
+    "codigo": "CZE15",
+    "nome": "Rep. Tcheca - figurinha 15",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 95
+  },
+  {
+    "id": "cze16",
+    "codigo": "CZE16",
+    "nome": "Rep. Tcheca - figurinha 16",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 96
+  },
+  {
+    "id": "cze17",
+    "codigo": "CZE17",
+    "nome": "Rep. Tcheca - figurinha 17",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 97
+  },
+  {
+    "id": "cze18",
+    "codigo": "CZE18",
+    "nome": "Rep. Tcheca - figurinha 18",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 98
+  },
+  {
+    "id": "cze19",
+    "codigo": "CZE19",
+    "nome": "Rep. Tcheca - figurinha 19",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 99
+  },
+  {
+    "id": "cze20",
+    "codigo": "CZE20",
+    "nome": "Rep. Tcheca - figurinha 20",
+    "grupo": "Grupo A",
+    "secao": "Rep. Tcheca",
+    "ordem": 100
+  },
+  {
+    "id": "can1",
+    "codigo": "CAN1",
+    "nome": "Canadá - figurinha 1",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 101
+  },
+  {
+    "id": "can2",
+    "codigo": "CAN2",
+    "nome": "Canadá - figurinha 2",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 102
+  },
+  {
+    "id": "can3",
+    "codigo": "CAN3",
+    "nome": "Canadá - figurinha 3",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 103
+  },
+  {
+    "id": "can4",
+    "codigo": "CAN4",
+    "nome": "Canadá - figurinha 4",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 104
+  },
+  {
+    "id": "can5",
+    "codigo": "CAN5",
+    "nome": "Canadá - figurinha 5",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 105
+  },
+  {
+    "id": "can6",
+    "codigo": "CAN6",
+    "nome": "Canadá - figurinha 6",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 106
+  },
+  {
+    "id": "can7",
+    "codigo": "CAN7",
+    "nome": "Canadá - figurinha 7",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 107
+  },
+  {
+    "id": "can8",
+    "codigo": "CAN8",
+    "nome": "Canadá - figurinha 8",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 108
+  },
+  {
+    "id": "can9",
+    "codigo": "CAN9",
+    "nome": "Canadá - figurinha 9",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 109
+  },
+  {
+    "id": "can10",
+    "codigo": "CAN10",
+    "nome": "Canadá - figurinha 10",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 110
+  },
+  {
+    "id": "can11",
+    "codigo": "CAN11",
+    "nome": "Canadá - figurinha 11",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 111
+  },
+  {
+    "id": "can12",
+    "codigo": "CAN12",
+    "nome": "Canadá - figurinha 12",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 112
+  },
+  {
+    "id": "can13",
+    "codigo": "CAN13",
+    "nome": "Canadá - figurinha 13",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 113
+  },
+  {
+    "id": "can14",
+    "codigo": "CAN14",
+    "nome": "Canadá - figurinha 14",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 114
+  },
+  {
+    "id": "can15",
+    "codigo": "CAN15",
+    "nome": "Canadá - figurinha 15",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 115
+  },
+  {
+    "id": "can16",
+    "codigo": "CAN16",
+    "nome": "Canadá - figurinha 16",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 116
+  },
+  {
+    "id": "can17",
+    "codigo": "CAN17",
+    "nome": "Canadá - figurinha 17",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 117
+  },
+  {
+    "id": "can18",
+    "codigo": "CAN18",
+    "nome": "Canadá - figurinha 18",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 118
+  },
+  {
+    "id": "can19",
+    "codigo": "CAN19",
+    "nome": "Canadá - figurinha 19",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 119
+  },
+  {
+    "id": "can20",
+    "codigo": "CAN20",
+    "nome": "Canadá - figurinha 20",
+    "grupo": "Grupo B",
+    "secao": "Canadá",
+    "ordem": 120
+  },
+  {
+    "id": "bih1",
+    "codigo": "BIH1",
+    "nome": "Bósnia - figurinha 1",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 121
+  },
+  {
+    "id": "bih2",
+    "codigo": "BIH2",
+    "nome": "Bósnia - figurinha 2",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 122
+  },
+  {
+    "id": "bih3",
+    "codigo": "BIH3",
+    "nome": "Bósnia - figurinha 3",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 123
+  },
+  {
+    "id": "bih4",
+    "codigo": "BIH4",
+    "nome": "Bósnia - figurinha 4",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 124
+  },
+  {
+    "id": "bih5",
+    "codigo": "BIH5",
+    "nome": "Bósnia - figurinha 5",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 125
+  },
+  {
+    "id": "bih6",
+    "codigo": "BIH6",
+    "nome": "Bósnia - figurinha 6",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 126
+  },
+  {
+    "id": "bih7",
+    "codigo": "BIH7",
+    "nome": "Bósnia - figurinha 7",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 127
+  },
+  {
+    "id": "bih8",
+    "codigo": "BIH8",
+    "nome": "Bósnia - figurinha 8",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 128
+  },
+  {
+    "id": "bih9",
+    "codigo": "BIH9",
+    "nome": "Bósnia - figurinha 9",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 129
+  },
+  {
+    "id": "bih10",
+    "codigo": "BIH10",
+    "nome": "Bósnia - figurinha 10",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 130
+  },
+  {
+    "id": "bih11",
+    "codigo": "BIH11",
+    "nome": "Bósnia - figurinha 11",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 131
+  },
+  {
+    "id": "bih12",
+    "codigo": "BIH12",
+    "nome": "Bósnia - figurinha 12",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 132
+  },
+  {
+    "id": "bih13",
+    "codigo": "BIH13",
+    "nome": "Bósnia - figurinha 13",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 133
+  },
+  {
+    "id": "bih14",
+    "codigo": "BIH14",
+    "nome": "Bósnia - figurinha 14",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 134
+  },
+  {
+    "id": "bih15",
+    "codigo": "BIH15",
+    "nome": "Bósnia - figurinha 15",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 135
+  },
+  {
+    "id": "bih16",
+    "codigo": "BIH16",
+    "nome": "Bósnia - figurinha 16",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 136
+  },
+  {
+    "id": "bih17",
+    "codigo": "BIH17",
+    "nome": "Bósnia - figurinha 17",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 137
+  },
+  {
+    "id": "bih18",
+    "codigo": "BIH18",
+    "nome": "Bósnia - figurinha 18",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 138
+  },
+  {
+    "id": "bih19",
+    "codigo": "BIH19",
+    "nome": "Bósnia - figurinha 19",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 139
+  },
+  {
+    "id": "bih20",
+    "codigo": "BIH20",
+    "nome": "Bósnia - figurinha 20",
+    "grupo": "Grupo B",
+    "secao": "Bósnia",
+    "ordem": 140
+  },
+  {
+    "id": "qat1",
+    "codigo": "QAT1",
+    "nome": "Catar - figurinha 1",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 141
+  },
+  {
+    "id": "qat2",
+    "codigo": "QAT2",
+    "nome": "Catar - figurinha 2",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 142
+  },
+  {
+    "id": "qat3",
+    "codigo": "QAT3",
+    "nome": "Catar - figurinha 3",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 143
+  },
+  {
+    "id": "qat4",
+    "codigo": "QAT4",
+    "nome": "Catar - figurinha 4",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 144
+  },
+  {
+    "id": "qat5",
+    "codigo": "QAT5",
+    "nome": "Catar - figurinha 5",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 145
+  },
+  {
+    "id": "qat6",
+    "codigo": "QAT6",
+    "nome": "Catar - figurinha 6",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 146
+  },
+  {
+    "id": "qat7",
+    "codigo": "QAT7",
+    "nome": "Catar - figurinha 7",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 147
+  },
+  {
+    "id": "qat8",
+    "codigo": "QAT8",
+    "nome": "Catar - figurinha 8",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 148
+  },
+  {
+    "id": "qat9",
+    "codigo": "QAT9",
+    "nome": "Catar - figurinha 9",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 149
+  },
+  {
+    "id": "qat10",
+    "codigo": "QAT10",
+    "nome": "Catar - figurinha 10",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 150
+  },
+  {
+    "id": "qat11",
+    "codigo": "QAT11",
+    "nome": "Catar - figurinha 11",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 151
+  },
+  {
+    "id": "qat12",
+    "codigo": "QAT12",
+    "nome": "Catar - figurinha 12",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 152
+  },
+  {
+    "id": "qat13",
+    "codigo": "QAT13",
+    "nome": "Catar - figurinha 13",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 153
+  },
+  {
+    "id": "qat14",
+    "codigo": "QAT14",
+    "nome": "Catar - figurinha 14",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 154
+  },
+  {
+    "id": "qat15",
+    "codigo": "QAT15",
+    "nome": "Catar - figurinha 15",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 155
+  },
+  {
+    "id": "qat16",
+    "codigo": "QAT16",
+    "nome": "Catar - figurinha 16",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 156
+  },
+  {
+    "id": "qat17",
+    "codigo": "QAT17",
+    "nome": "Catar - figurinha 17",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 157
+  },
+  {
+    "id": "qat18",
+    "codigo": "QAT18",
+    "nome": "Catar - figurinha 18",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 158
+  },
+  {
+    "id": "qat19",
+    "codigo": "QAT19",
+    "nome": "Catar - figurinha 19",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 159
+  },
+  {
+    "id": "qat20",
+    "codigo": "QAT20",
+    "nome": "Catar - figurinha 20",
+    "grupo": "Grupo B",
+    "secao": "Catar",
+    "ordem": 160
+  },
+  {
+    "id": "sui1",
+    "codigo": "SUI1",
+    "nome": "Suíça - figurinha 1",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 161
+  },
+  {
+    "id": "sui2",
+    "codigo": "SUI2",
+    "nome": "Suíça - figurinha 2",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 162
+  },
+  {
+    "id": "sui3",
+    "codigo": "SUI3",
+    "nome": "Suíça - figurinha 3",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 163
+  },
+  {
+    "id": "sui4",
+    "codigo": "SUI4",
+    "nome": "Suíça - figurinha 4",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 164
+  },
+  {
+    "id": "sui5",
+    "codigo": "SUI5",
+    "nome": "Suíça - figurinha 5",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 165
+  },
+  {
+    "id": "sui6",
+    "codigo": "SUI6",
+    "nome": "Suíça - figurinha 6",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 166
+  },
+  {
+    "id": "sui7",
+    "codigo": "SUI7",
+    "nome": "Suíça - figurinha 7",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 167
+  },
+  {
+    "id": "sui8",
+    "codigo": "SUI8",
+    "nome": "Suíça - figurinha 8",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 168
+  },
+  {
+    "id": "sui9",
+    "codigo": "SUI9",
+    "nome": "Suíça - figurinha 9",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 169
+  },
+  {
+    "id": "sui10",
+    "codigo": "SUI10",
+    "nome": "Suíça - figurinha 10",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 170
+  },
+  {
+    "id": "sui11",
+    "codigo": "SUI11",
+    "nome": "Suíça - figurinha 11",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 171
+  },
+  {
+    "id": "sui12",
+    "codigo": "SUI12",
+    "nome": "Suíça - figurinha 12",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 172
+  },
+  {
+    "id": "sui13",
+    "codigo": "SUI13",
+    "nome": "Suíça - figurinha 13",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 173
+  },
+  {
+    "id": "sui14",
+    "codigo": "SUI14",
+    "nome": "Suíça - figurinha 14",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 174
+  },
+  {
+    "id": "sui15",
+    "codigo": "SUI15",
+    "nome": "Suíça - figurinha 15",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 175
+  },
+  {
+    "id": "sui16",
+    "codigo": "SUI16",
+    "nome": "Suíça - figurinha 16",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 176
+  },
+  {
+    "id": "sui17",
+    "codigo": "SUI17",
+    "nome": "Suíça - figurinha 17",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 177
+  },
+  {
+    "id": "sui18",
+    "codigo": "SUI18",
+    "nome": "Suíça - figurinha 18",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 178
+  },
+  {
+    "id": "sui19",
+    "codigo": "SUI19",
+    "nome": "Suíça - figurinha 19",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 179
+  },
+  {
+    "id": "sui20",
+    "codigo": "SUI20",
+    "nome": "Suíça - figurinha 20",
+    "grupo": "Grupo B",
+    "secao": "Suíça",
+    "ordem": 180
+  },
+  {
+    "id": "bra1",
+    "codigo": "BRA1",
+    "nome": "Brasil - figurinha 1",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 181
+  },
+  {
+    "id": "bra2",
+    "codigo": "BRA2",
+    "nome": "Brasil - figurinha 2",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 182
+  },
+  {
+    "id": "bra3",
+    "codigo": "BRA3",
+    "nome": "Brasil - figurinha 3",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 183
+  },
+  {
+    "id": "bra4",
+    "codigo": "BRA4",
+    "nome": "Brasil - figurinha 4",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 184
+  },
+  {
+    "id": "bra5",
+    "codigo": "BRA5",
+    "nome": "Brasil - figurinha 5",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 185
+  },
+  {
+    "id": "bra6",
+    "codigo": "BRA6",
+    "nome": "Brasil - figurinha 6",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 186
+  },
+  {
+    "id": "bra7",
+    "codigo": "BRA7",
+    "nome": "Brasil - figurinha 7",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 187
+  },
+  {
+    "id": "bra8",
+    "codigo": "BRA8",
+    "nome": "Brasil - figurinha 8",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 188
+  },
+  {
+    "id": "bra9",
+    "codigo": "BRA9",
+    "nome": "Brasil - figurinha 9",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 189
+  },
+  {
+    "id": "bra10",
+    "codigo": "BRA10",
+    "nome": "Brasil - figurinha 10",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 190
+  },
+  {
+    "id": "bra11",
+    "codigo": "BRA11",
+    "nome": "Brasil - figurinha 11",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 191
+  },
+  {
+    "id": "bra12",
+    "codigo": "BRA12",
+    "nome": "Brasil - figurinha 12",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 192
+  },
+  {
+    "id": "bra13",
+    "codigo": "BRA13",
+    "nome": "Brasil - figurinha 13",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 193
+  },
+  {
+    "id": "bra14",
+    "codigo": "BRA14",
+    "nome": "Brasil - figurinha 14",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 194
+  },
+  {
+    "id": "bra15",
+    "codigo": "BRA15",
+    "nome": "Brasil - figurinha 15",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 195
+  },
+  {
+    "id": "bra16",
+    "codigo": "BRA16",
+    "nome": "Brasil - figurinha 16",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 196
+  },
+  {
+    "id": "bra17",
+    "codigo": "BRA17",
+    "nome": "Brasil - figurinha 17",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 197
+  },
+  {
+    "id": "bra18",
+    "codigo": "BRA18",
+    "nome": "Brasil - figurinha 18",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 198
+  },
+  {
+    "id": "bra19",
+    "codigo": "BRA19",
+    "nome": "Brasil - figurinha 19",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 199
+  },
+  {
+    "id": "bra20",
+    "codigo": "BRA20",
+    "nome": "Brasil - figurinha 20",
+    "grupo": "Grupo C",
+    "secao": "Brasil",
+    "ordem": 200
+  },
+  {
+    "id": "mar1",
+    "codigo": "MAR1",
+    "nome": "Marrocos - figurinha 1",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 201
+  },
+  {
+    "id": "mar2",
+    "codigo": "MAR2",
+    "nome": "Marrocos - figurinha 2",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 202
+  },
+  {
+    "id": "mar3",
+    "codigo": "MAR3",
+    "nome": "Marrocos - figurinha 3",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 203
+  },
+  {
+    "id": "mar4",
+    "codigo": "MAR4",
+    "nome": "Marrocos - figurinha 4",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 204
+  },
+  {
+    "id": "mar5",
+    "codigo": "MAR5",
+    "nome": "Marrocos - figurinha 5",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 205
+  },
+  {
+    "id": "mar6",
+    "codigo": "MAR6",
+    "nome": "Marrocos - figurinha 6",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 206
+  },
+  {
+    "id": "mar7",
+    "codigo": "MAR7",
+    "nome": "Marrocos - figurinha 7",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 207
+  },
+  {
+    "id": "mar8",
+    "codigo": "MAR8",
+    "nome": "Marrocos - figurinha 8",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 208
+  },
+  {
+    "id": "mar9",
+    "codigo": "MAR9",
+    "nome": "Marrocos - figurinha 9",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 209
+  },
+  {
+    "id": "mar10",
+    "codigo": "MAR10",
+    "nome": "Marrocos - figurinha 10",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 210
+  },
+  {
+    "id": "mar11",
+    "codigo": "MAR11",
+    "nome": "Marrocos - figurinha 11",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 211
+  },
+  {
+    "id": "mar12",
+    "codigo": "MAR12",
+    "nome": "Marrocos - figurinha 12",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 212
+  },
+  {
+    "id": "mar13",
+    "codigo": "MAR13",
+    "nome": "Marrocos - figurinha 13",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 213
+  },
+  {
+    "id": "mar14",
+    "codigo": "MAR14",
+    "nome": "Marrocos - figurinha 14",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 214
+  },
+  {
+    "id": "mar15",
+    "codigo": "MAR15",
+    "nome": "Marrocos - figurinha 15",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 215
+  },
+  {
+    "id": "mar16",
+    "codigo": "MAR16",
+    "nome": "Marrocos - figurinha 16",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 216
+  },
+  {
+    "id": "mar17",
+    "codigo": "MAR17",
+    "nome": "Marrocos - figurinha 17",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 217
+  },
+  {
+    "id": "mar18",
+    "codigo": "MAR18",
+    "nome": "Marrocos - figurinha 18",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 218
+  },
+  {
+    "id": "mar19",
+    "codigo": "MAR19",
+    "nome": "Marrocos - figurinha 19",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 219
+  },
+  {
+    "id": "mar20",
+    "codigo": "MAR20",
+    "nome": "Marrocos - figurinha 20",
+    "grupo": "Grupo C",
+    "secao": "Marrocos",
+    "ordem": 220
+  },
+  {
+    "id": "hai1",
+    "codigo": "HAI1",
+    "nome": "Haiti - figurinha 1",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 221
+  },
+  {
+    "id": "hai2",
+    "codigo": "HAI2",
+    "nome": "Haiti - figurinha 2",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 222
+  },
+  {
+    "id": "hai3",
+    "codigo": "HAI3",
+    "nome": "Haiti - figurinha 3",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 223
+  },
+  {
+    "id": "hai4",
+    "codigo": "HAI4",
+    "nome": "Haiti - figurinha 4",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 224
+  },
+  {
+    "id": "hai5",
+    "codigo": "HAI5",
+    "nome": "Haiti - figurinha 5",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 225
+  },
+  {
+    "id": "hai6",
+    "codigo": "HAI6",
+    "nome": "Haiti - figurinha 6",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 226
+  },
+  {
+    "id": "hai7",
+    "codigo": "HAI7",
+    "nome": "Haiti - figurinha 7",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 227
+  },
+  {
+    "id": "hai8",
+    "codigo": "HAI8",
+    "nome": "Haiti - figurinha 8",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 228
+  },
+  {
+    "id": "hai9",
+    "codigo": "HAI9",
+    "nome": "Haiti - figurinha 9",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 229
+  },
+  {
+    "id": "hai10",
+    "codigo": "HAI10",
+    "nome": "Haiti - figurinha 10",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 230
+  },
+  {
+    "id": "hai11",
+    "codigo": "HAI11",
+    "nome": "Haiti - figurinha 11",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 231
+  },
+  {
+    "id": "hai12",
+    "codigo": "HAI12",
+    "nome": "Haiti - figurinha 12",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 232
+  },
+  {
+    "id": "hai13",
+    "codigo": "HAI13",
+    "nome": "Haiti - figurinha 13",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 233
+  },
+  {
+    "id": "hai14",
+    "codigo": "HAI14",
+    "nome": "Haiti - figurinha 14",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 234
+  },
+  {
+    "id": "hai15",
+    "codigo": "HAI15",
+    "nome": "Haiti - figurinha 15",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 235
+  },
+  {
+    "id": "hai16",
+    "codigo": "HAI16",
+    "nome": "Haiti - figurinha 16",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 236
+  },
+  {
+    "id": "hai17",
+    "codigo": "HAI17",
+    "nome": "Haiti - figurinha 17",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 237
+  },
+  {
+    "id": "hai18",
+    "codigo": "HAI18",
+    "nome": "Haiti - figurinha 18",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 238
+  },
+  {
+    "id": "hai19",
+    "codigo": "HAI19",
+    "nome": "Haiti - figurinha 19",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 239
+  },
+  {
+    "id": "hai20",
+    "codigo": "HAI20",
+    "nome": "Haiti - figurinha 20",
+    "grupo": "Grupo C",
+    "secao": "Haiti",
+    "ordem": 240
+  },
+  {
+    "id": "sco1",
+    "codigo": "SCO1",
+    "nome": "Escócia - figurinha 1",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 241
+  },
+  {
+    "id": "sco2",
+    "codigo": "SCO2",
+    "nome": "Escócia - figurinha 2",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 242
+  },
+  {
+    "id": "sco3",
+    "codigo": "SCO3",
+    "nome": "Escócia - figurinha 3",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 243
+  },
+  {
+    "id": "sco4",
+    "codigo": "SCO4",
+    "nome": "Escócia - figurinha 4",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 244
+  },
+  {
+    "id": "sco5",
+    "codigo": "SCO5",
+    "nome": "Escócia - figurinha 5",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 245
+  },
+  {
+    "id": "sco6",
+    "codigo": "SCO6",
+    "nome": "Escócia - figurinha 6",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 246
+  },
+  {
+    "id": "sco7",
+    "codigo": "SCO7",
+    "nome": "Escócia - figurinha 7",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 247
+  },
+  {
+    "id": "sco8",
+    "codigo": "SCO8",
+    "nome": "Escócia - figurinha 8",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 248
+  },
+  {
+    "id": "sco9",
+    "codigo": "SCO9",
+    "nome": "Escócia - figurinha 9",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 249
+  },
+  {
+    "id": "sco10",
+    "codigo": "SCO10",
+    "nome": "Escócia - figurinha 10",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 250
+  },
+  {
+    "id": "sco11",
+    "codigo": "SCO11",
+    "nome": "Escócia - figurinha 11",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 251
+  },
+  {
+    "id": "sco12",
+    "codigo": "SCO12",
+    "nome": "Escócia - figurinha 12",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 252
+  },
+  {
+    "id": "sco13",
+    "codigo": "SCO13",
+    "nome": "Escócia - figurinha 13",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 253
+  },
+  {
+    "id": "sco14",
+    "codigo": "SCO14",
+    "nome": "Escócia - figurinha 14",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 254
+  },
+  {
+    "id": "sco15",
+    "codigo": "SCO15",
+    "nome": "Escócia - figurinha 15",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 255
+  },
+  {
+    "id": "sco16",
+    "codigo": "SCO16",
+    "nome": "Escócia - figurinha 16",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 256
+  },
+  {
+    "id": "sco17",
+    "codigo": "SCO17",
+    "nome": "Escócia - figurinha 17",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 257
+  },
+  {
+    "id": "sco18",
+    "codigo": "SCO18",
+    "nome": "Escócia - figurinha 18",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 258
+  },
+  {
+    "id": "sco19",
+    "codigo": "SCO19",
+    "nome": "Escócia - figurinha 19",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 259
+  },
+  {
+    "id": "sco20",
+    "codigo": "SCO20",
+    "nome": "Escócia - figurinha 20",
+    "grupo": "Grupo C",
+    "secao": "Escócia",
+    "ordem": 260
+  },
+  {
+    "id": "usa1",
+    "codigo": "USA1",
+    "nome": "Estados Unidos - figurinha 1",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 261
+  },
+  {
+    "id": "usa2",
+    "codigo": "USA2",
+    "nome": "Estados Unidos - figurinha 2",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 262
+  },
+  {
+    "id": "usa3",
+    "codigo": "USA3",
+    "nome": "Estados Unidos - figurinha 3",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 263
+  },
+  {
+    "id": "usa4",
+    "codigo": "USA4",
+    "nome": "Estados Unidos - figurinha 4",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 264
+  },
+  {
+    "id": "usa5",
+    "codigo": "USA5",
+    "nome": "Estados Unidos - figurinha 5",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 265
+  },
+  {
+    "id": "usa6",
+    "codigo": "USA6",
+    "nome": "Estados Unidos - figurinha 6",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 266
+  },
+  {
+    "id": "usa7",
+    "codigo": "USA7",
+    "nome": "Estados Unidos - figurinha 7",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 267
+  },
+  {
+    "id": "usa8",
+    "codigo": "USA8",
+    "nome": "Estados Unidos - figurinha 8",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 268
+  },
+  {
+    "id": "usa9",
+    "codigo": "USA9",
+    "nome": "Estados Unidos - figurinha 9",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 269
+  },
+  {
+    "id": "usa10",
+    "codigo": "USA10",
+    "nome": "Estados Unidos - figurinha 10",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 270
+  },
+  {
+    "id": "usa11",
+    "codigo": "USA11",
+    "nome": "Estados Unidos - figurinha 11",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 271
+  },
+  {
+    "id": "usa12",
+    "codigo": "USA12",
+    "nome": "Estados Unidos - figurinha 12",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 272
+  },
+  {
+    "id": "usa13",
+    "codigo": "USA13",
+    "nome": "Estados Unidos - figurinha 13",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 273
+  },
+  {
+    "id": "usa14",
+    "codigo": "USA14",
+    "nome": "Estados Unidos - figurinha 14",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 274
+  },
+  {
+    "id": "usa15",
+    "codigo": "USA15",
+    "nome": "Estados Unidos - figurinha 15",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 275
+  },
+  {
+    "id": "usa16",
+    "codigo": "USA16",
+    "nome": "Estados Unidos - figurinha 16",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 276
+  },
+  {
+    "id": "usa17",
+    "codigo": "USA17",
+    "nome": "Estados Unidos - figurinha 17",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 277
+  },
+  {
+    "id": "usa18",
+    "codigo": "USA18",
+    "nome": "Estados Unidos - figurinha 18",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 278
+  },
+  {
+    "id": "usa19",
+    "codigo": "USA19",
+    "nome": "Estados Unidos - figurinha 19",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 279
+  },
+  {
+    "id": "usa20",
+    "codigo": "USA20",
+    "nome": "Estados Unidos - figurinha 20",
+    "grupo": "Grupo D",
+    "secao": "Estados Unidos",
+    "ordem": 280
+  },
+  {
+    "id": "par1",
+    "codigo": "PAR1",
+    "nome": "Paraguai - figurinha 1",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 281
+  },
+  {
+    "id": "par2",
+    "codigo": "PAR2",
+    "nome": "Paraguai - figurinha 2",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 282
+  },
+  {
+    "id": "par3",
+    "codigo": "PAR3",
+    "nome": "Paraguai - figurinha 3",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 283
+  },
+  {
+    "id": "par4",
+    "codigo": "PAR4",
+    "nome": "Paraguai - figurinha 4",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 284
+  },
+  {
+    "id": "par5",
+    "codigo": "PAR5",
+    "nome": "Paraguai - figurinha 5",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 285
+  },
+  {
+    "id": "par6",
+    "codigo": "PAR6",
+    "nome": "Paraguai - figurinha 6",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 286
+  },
+  {
+    "id": "par7",
+    "codigo": "PAR7",
+    "nome": "Paraguai - figurinha 7",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 287
+  },
+  {
+    "id": "par8",
+    "codigo": "PAR8",
+    "nome": "Paraguai - figurinha 8",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 288
+  },
+  {
+    "id": "par9",
+    "codigo": "PAR9",
+    "nome": "Paraguai - figurinha 9",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 289
+  },
+  {
+    "id": "par10",
+    "codigo": "PAR10",
+    "nome": "Paraguai - figurinha 10",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 290
+  },
+  {
+    "id": "par11",
+    "codigo": "PAR11",
+    "nome": "Paraguai - figurinha 11",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 291
+  },
+  {
+    "id": "par12",
+    "codigo": "PAR12",
+    "nome": "Paraguai - figurinha 12",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 292
+  },
+  {
+    "id": "par13",
+    "codigo": "PAR13",
+    "nome": "Paraguai - figurinha 13",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 293
+  },
+  {
+    "id": "par14",
+    "codigo": "PAR14",
+    "nome": "Paraguai - figurinha 14",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 294
+  },
+  {
+    "id": "par15",
+    "codigo": "PAR15",
+    "nome": "Paraguai - figurinha 15",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 295
+  },
+  {
+    "id": "par16",
+    "codigo": "PAR16",
+    "nome": "Paraguai - figurinha 16",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 296
+  },
+  {
+    "id": "par17",
+    "codigo": "PAR17",
+    "nome": "Paraguai - figurinha 17",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 297
+  },
+  {
+    "id": "par18",
+    "codigo": "PAR18",
+    "nome": "Paraguai - figurinha 18",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 298
+  },
+  {
+    "id": "par19",
+    "codigo": "PAR19",
+    "nome": "Paraguai - figurinha 19",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 299
+  },
+  {
+    "id": "par20",
+    "codigo": "PAR20",
+    "nome": "Paraguai - figurinha 20",
+    "grupo": "Grupo D",
+    "secao": "Paraguai",
+    "ordem": 300
+  },
+  {
+    "id": "aus1",
+    "codigo": "AUS1",
+    "nome": "Austrália - figurinha 1",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 301
+  },
+  {
+    "id": "aus2",
+    "codigo": "AUS2",
+    "nome": "Austrália - figurinha 2",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 302
+  },
+  {
+    "id": "aus3",
+    "codigo": "AUS3",
+    "nome": "Austrália - figurinha 3",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 303
+  },
+  {
+    "id": "aus4",
+    "codigo": "AUS4",
+    "nome": "Austrália - figurinha 4",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 304
+  },
+  {
+    "id": "aus5",
+    "codigo": "AUS5",
+    "nome": "Austrália - figurinha 5",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 305
+  },
+  {
+    "id": "aus6",
+    "codigo": "AUS6",
+    "nome": "Austrália - figurinha 6",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 306
+  },
+  {
+    "id": "aus7",
+    "codigo": "AUS7",
+    "nome": "Austrália - figurinha 7",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 307
+  },
+  {
+    "id": "aus8",
+    "codigo": "AUS8",
+    "nome": "Austrália - figurinha 8",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 308
+  },
+  {
+    "id": "aus9",
+    "codigo": "AUS9",
+    "nome": "Austrália - figurinha 9",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 309
+  },
+  {
+    "id": "aus10",
+    "codigo": "AUS10",
+    "nome": "Austrália - figurinha 10",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 310
+  },
+  {
+    "id": "aus11",
+    "codigo": "AUS11",
+    "nome": "Austrália - figurinha 11",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 311
+  },
+  {
+    "id": "aus12",
+    "codigo": "AUS12",
+    "nome": "Austrália - figurinha 12",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 312
+  },
+  {
+    "id": "aus13",
+    "codigo": "AUS13",
+    "nome": "Austrália - figurinha 13",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 313
+  },
+  {
+    "id": "aus14",
+    "codigo": "AUS14",
+    "nome": "Austrália - figurinha 14",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 314
+  },
+  {
+    "id": "aus15",
+    "codigo": "AUS15",
+    "nome": "Austrália - figurinha 15",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 315
+  },
+  {
+    "id": "aus16",
+    "codigo": "AUS16",
+    "nome": "Austrália - figurinha 16",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 316
+  },
+  {
+    "id": "aus17",
+    "codigo": "AUS17",
+    "nome": "Austrália - figurinha 17",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 317
+  },
+  {
+    "id": "aus18",
+    "codigo": "AUS18",
+    "nome": "Austrália - figurinha 18",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 318
+  },
+  {
+    "id": "aus19",
+    "codigo": "AUS19",
+    "nome": "Austrália - figurinha 19",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 319
+  },
+  {
+    "id": "aus20",
+    "codigo": "AUS20",
+    "nome": "Austrália - figurinha 20",
+    "grupo": "Grupo D",
+    "secao": "Austrália",
+    "ordem": 320
+  },
+  {
+    "id": "tur1",
+    "codigo": "TUR1",
+    "nome": "Turquia - figurinha 1",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 321
+  },
+  {
+    "id": "tur2",
+    "codigo": "TUR2",
+    "nome": "Turquia - figurinha 2",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 322
+  },
+  {
+    "id": "tur3",
+    "codigo": "TUR3",
+    "nome": "Turquia - figurinha 3",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 323
+  },
+  {
+    "id": "tur4",
+    "codigo": "TUR4",
+    "nome": "Turquia - figurinha 4",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 324
+  },
+  {
+    "id": "tur5",
+    "codigo": "TUR5",
+    "nome": "Turquia - figurinha 5",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 325
+  },
+  {
+    "id": "tur6",
+    "codigo": "TUR6",
+    "nome": "Turquia - figurinha 6",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 326
+  },
+  {
+    "id": "tur7",
+    "codigo": "TUR7",
+    "nome": "Turquia - figurinha 7",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 327
+  },
+  {
+    "id": "tur8",
+    "codigo": "TUR8",
+    "nome": "Turquia - figurinha 8",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 328
+  },
+  {
+    "id": "tur9",
+    "codigo": "TUR9",
+    "nome": "Turquia - figurinha 9",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 329
+  },
+  {
+    "id": "tur10",
+    "codigo": "TUR10",
+    "nome": "Turquia - figurinha 10",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 330
+  },
+  {
+    "id": "tur11",
+    "codigo": "TUR11",
+    "nome": "Turquia - figurinha 11",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 331
+  },
+  {
+    "id": "tur12",
+    "codigo": "TUR12",
+    "nome": "Turquia - figurinha 12",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 332
+  },
+  {
+    "id": "tur13",
+    "codigo": "TUR13",
+    "nome": "Turquia - figurinha 13",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 333
+  },
+  {
+    "id": "tur14",
+    "codigo": "TUR14",
+    "nome": "Turquia - figurinha 14",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 334
+  },
+  {
+    "id": "tur15",
+    "codigo": "TUR15",
+    "nome": "Turquia - figurinha 15",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 335
+  },
+  {
+    "id": "tur16",
+    "codigo": "TUR16",
+    "nome": "Turquia - figurinha 16",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 336
+  },
+  {
+    "id": "tur17",
+    "codigo": "TUR17",
+    "nome": "Turquia - figurinha 17",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 337
+  },
+  {
+    "id": "tur18",
+    "codigo": "TUR18",
+    "nome": "Turquia - figurinha 18",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 338
+  },
+  {
+    "id": "tur19",
+    "codigo": "TUR19",
+    "nome": "Turquia - figurinha 19",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 339
+  },
+  {
+    "id": "tur20",
+    "codigo": "TUR20",
+    "nome": "Turquia - figurinha 20",
+    "grupo": "Grupo D",
+    "secao": "Turquia",
+    "ordem": 340
+  },
+  {
+    "id": "ger1",
+    "codigo": "GER1",
+    "nome": "Alemanha - figurinha 1",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 341
+  },
+  {
+    "id": "ger2",
+    "codigo": "GER2",
+    "nome": "Alemanha - figurinha 2",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 342
+  },
+  {
+    "id": "ger3",
+    "codigo": "GER3",
+    "nome": "Alemanha - figurinha 3",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 343
+  },
+  {
+    "id": "ger4",
+    "codigo": "GER4",
+    "nome": "Alemanha - figurinha 4",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 344
+  },
+  {
+    "id": "ger5",
+    "codigo": "GER5",
+    "nome": "Alemanha - figurinha 5",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 345
+  },
+  {
+    "id": "ger6",
+    "codigo": "GER6",
+    "nome": "Alemanha - figurinha 6",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 346
+  },
+  {
+    "id": "ger7",
+    "codigo": "GER7",
+    "nome": "Alemanha - figurinha 7",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 347
+  },
+  {
+    "id": "ger8",
+    "codigo": "GER8",
+    "nome": "Alemanha - figurinha 8",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 348
+  },
+  {
+    "id": "ger9",
+    "codigo": "GER9",
+    "nome": "Alemanha - figurinha 9",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 349
+  },
+  {
+    "id": "ger10",
+    "codigo": "GER10",
+    "nome": "Alemanha - figurinha 10",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 350
+  },
+  {
+    "id": "ger11",
+    "codigo": "GER11",
+    "nome": "Alemanha - figurinha 11",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 351
+  },
+  {
+    "id": "ger12",
+    "codigo": "GER12",
+    "nome": "Alemanha - figurinha 12",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 352
+  },
+  {
+    "id": "ger13",
+    "codigo": "GER13",
+    "nome": "Alemanha - figurinha 13",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 353
+  },
+  {
+    "id": "ger14",
+    "codigo": "GER14",
+    "nome": "Alemanha - figurinha 14",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 354
+  },
+  {
+    "id": "ger15",
+    "codigo": "GER15",
+    "nome": "Alemanha - figurinha 15",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 355
+  },
+  {
+    "id": "ger16",
+    "codigo": "GER16",
+    "nome": "Alemanha - figurinha 16",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 356
+  },
+  {
+    "id": "ger17",
+    "codigo": "GER17",
+    "nome": "Alemanha - figurinha 17",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 357
+  },
+  {
+    "id": "ger18",
+    "codigo": "GER18",
+    "nome": "Alemanha - figurinha 18",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 358
+  },
+  {
+    "id": "ger19",
+    "codigo": "GER19",
+    "nome": "Alemanha - figurinha 19",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 359
+  },
+  {
+    "id": "ger20",
+    "codigo": "GER20",
+    "nome": "Alemanha - figurinha 20",
+    "grupo": "Grupo E",
+    "secao": "Alemanha",
+    "ordem": 360
+  },
+  {
+    "id": "cuw1",
+    "codigo": "CUW1",
+    "nome": "Curaçao - figurinha 1",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 361
+  },
+  {
+    "id": "cuw2",
+    "codigo": "CUW2",
+    "nome": "Curaçao - figurinha 2",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 362
+  },
+  {
+    "id": "cuw3",
+    "codigo": "CUW3",
+    "nome": "Curaçao - figurinha 3",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 363
+  },
+  {
+    "id": "cuw4",
+    "codigo": "CUW4",
+    "nome": "Curaçao - figurinha 4",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 364
+  },
+  {
+    "id": "cuw5",
+    "codigo": "CUW5",
+    "nome": "Curaçao - figurinha 5",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 365
+  },
+  {
+    "id": "cuw6",
+    "codigo": "CUW6",
+    "nome": "Curaçao - figurinha 6",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 366
+  },
+  {
+    "id": "cuw7",
+    "codigo": "CUW7",
+    "nome": "Curaçao - figurinha 7",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 367
+  },
+  {
+    "id": "cuw8",
+    "codigo": "CUW8",
+    "nome": "Curaçao - figurinha 8",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 368
+  },
+  {
+    "id": "cuw9",
+    "codigo": "CUW9",
+    "nome": "Curaçao - figurinha 9",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 369
+  },
+  {
+    "id": "cuw10",
+    "codigo": "CUW10",
+    "nome": "Curaçao - figurinha 10",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 370
+  },
+  {
+    "id": "cuw11",
+    "codigo": "CUW11",
+    "nome": "Curaçao - figurinha 11",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 371
+  },
+  {
+    "id": "cuw12",
+    "codigo": "CUW12",
+    "nome": "Curaçao - figurinha 12",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 372
+  },
+  {
+    "id": "cuw13",
+    "codigo": "CUW13",
+    "nome": "Curaçao - figurinha 13",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 373
+  },
+  {
+    "id": "cuw14",
+    "codigo": "CUW14",
+    "nome": "Curaçao - figurinha 14",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 374
+  },
+  {
+    "id": "cuw15",
+    "codigo": "CUW15",
+    "nome": "Curaçao - figurinha 15",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 375
+  },
+  {
+    "id": "cuw16",
+    "codigo": "CUW16",
+    "nome": "Curaçao - figurinha 16",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 376
+  },
+  {
+    "id": "cuw17",
+    "codigo": "CUW17",
+    "nome": "Curaçao - figurinha 17",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 377
+  },
+  {
+    "id": "cuw18",
+    "codigo": "CUW18",
+    "nome": "Curaçao - figurinha 18",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 378
+  },
+  {
+    "id": "cuw19",
+    "codigo": "CUW19",
+    "nome": "Curaçao - figurinha 19",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 379
+  },
+  {
+    "id": "cuw20",
+    "codigo": "CUW20",
+    "nome": "Curaçao - figurinha 20",
+    "grupo": "Grupo E",
+    "secao": "Curaçao",
+    "ordem": 380
+  },
+  {
+    "id": "civ1",
+    "codigo": "CIV1",
+    "nome": "Costa do Marfim - figurinha 1",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 381
+  },
+  {
+    "id": "civ2",
+    "codigo": "CIV2",
+    "nome": "Costa do Marfim - figurinha 2",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 382
+  },
+  {
+    "id": "civ3",
+    "codigo": "CIV3",
+    "nome": "Costa do Marfim - figurinha 3",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 383
+  },
+  {
+    "id": "civ4",
+    "codigo": "CIV4",
+    "nome": "Costa do Marfim - figurinha 4",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 384
+  },
+  {
+    "id": "civ5",
+    "codigo": "CIV5",
+    "nome": "Costa do Marfim - figurinha 5",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 385
+  },
+  {
+    "id": "civ6",
+    "codigo": "CIV6",
+    "nome": "Costa do Marfim - figurinha 6",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 386
+  },
+  {
+    "id": "civ7",
+    "codigo": "CIV7",
+    "nome": "Costa do Marfim - figurinha 7",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 387
+  },
+  {
+    "id": "civ8",
+    "codigo": "CIV8",
+    "nome": "Costa do Marfim - figurinha 8",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 388
+  },
+  {
+    "id": "civ9",
+    "codigo": "CIV9",
+    "nome": "Costa do Marfim - figurinha 9",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 389
+  },
+  {
+    "id": "civ10",
+    "codigo": "CIV10",
+    "nome": "Costa do Marfim - figurinha 10",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 390
+  },
+  {
+    "id": "civ11",
+    "codigo": "CIV11",
+    "nome": "Costa do Marfim - figurinha 11",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 391
+  },
+  {
+    "id": "civ12",
+    "codigo": "CIV12",
+    "nome": "Costa do Marfim - figurinha 12",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 392
+  },
+  {
+    "id": "civ13",
+    "codigo": "CIV13",
+    "nome": "Costa do Marfim - figurinha 13",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 393
+  },
+  {
+    "id": "civ14",
+    "codigo": "CIV14",
+    "nome": "Costa do Marfim - figurinha 14",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 394
+  },
+  {
+    "id": "civ15",
+    "codigo": "CIV15",
+    "nome": "Costa do Marfim - figurinha 15",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 395
+  },
+  {
+    "id": "civ16",
+    "codigo": "CIV16",
+    "nome": "Costa do Marfim - figurinha 16",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 396
+  },
+  {
+    "id": "civ17",
+    "codigo": "CIV17",
+    "nome": "Costa do Marfim - figurinha 17",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 397
+  },
+  {
+    "id": "civ18",
+    "codigo": "CIV18",
+    "nome": "Costa do Marfim - figurinha 18",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 398
+  },
+  {
+    "id": "civ19",
+    "codigo": "CIV19",
+    "nome": "Costa do Marfim - figurinha 19",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 399
+  },
+  {
+    "id": "civ20",
+    "codigo": "CIV20",
+    "nome": "Costa do Marfim - figurinha 20",
+    "grupo": "Grupo E",
+    "secao": "Costa do Marfim",
+    "ordem": 400
+  },
+  {
+    "id": "ecu1",
+    "codigo": "ECU1",
+    "nome": "Equador - figurinha 1",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 401
+  },
+  {
+    "id": "ecu2",
+    "codigo": "ECU2",
+    "nome": "Equador - figurinha 2",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 402
+  },
+  {
+    "id": "ecu3",
+    "codigo": "ECU3",
+    "nome": "Equador - figurinha 3",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 403
+  },
+  {
+    "id": "ecu4",
+    "codigo": "ECU4",
+    "nome": "Equador - figurinha 4",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 404
+  },
+  {
+    "id": "ecu5",
+    "codigo": "ECU5",
+    "nome": "Equador - figurinha 5",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 405
+  },
+  {
+    "id": "ecu6",
+    "codigo": "ECU6",
+    "nome": "Equador - figurinha 6",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 406
+  },
+  {
+    "id": "ecu7",
+    "codigo": "ECU7",
+    "nome": "Equador - figurinha 7",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 407
+  },
+  {
+    "id": "ecu8",
+    "codigo": "ECU8",
+    "nome": "Equador - figurinha 8",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 408
+  },
+  {
+    "id": "ecu9",
+    "codigo": "ECU9",
+    "nome": "Equador - figurinha 9",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 409
+  },
+  {
+    "id": "ecu10",
+    "codigo": "ECU10",
+    "nome": "Equador - figurinha 10",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 410
+  },
+  {
+    "id": "ecu11",
+    "codigo": "ECU11",
+    "nome": "Equador - figurinha 11",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 411
+  },
+  {
+    "id": "ecu12",
+    "codigo": "ECU12",
+    "nome": "Equador - figurinha 12",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 412
+  },
+  {
+    "id": "ecu13",
+    "codigo": "ECU13",
+    "nome": "Equador - figurinha 13",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 413
+  },
+  {
+    "id": "ecu14",
+    "codigo": "ECU14",
+    "nome": "Equador - figurinha 14",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 414
+  },
+  {
+    "id": "ecu15",
+    "codigo": "ECU15",
+    "nome": "Equador - figurinha 15",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 415
+  },
+  {
+    "id": "ecu16",
+    "codigo": "ECU16",
+    "nome": "Equador - figurinha 16",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 416
+  },
+  {
+    "id": "ecu17",
+    "codigo": "ECU17",
+    "nome": "Equador - figurinha 17",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 417
+  },
+  {
+    "id": "ecu18",
+    "codigo": "ECU18",
+    "nome": "Equador - figurinha 18",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 418
+  },
+  {
+    "id": "ecu19",
+    "codigo": "ECU19",
+    "nome": "Equador - figurinha 19",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 419
+  },
+  {
+    "id": "ecu20",
+    "codigo": "ECU20",
+    "nome": "Equador - figurinha 20",
+    "grupo": "Grupo E",
+    "secao": "Equador",
+    "ordem": 420
+  },
+  {
+    "id": "ned1",
+    "codigo": "NED1",
+    "nome": "Holanda - figurinha 1",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 421
+  },
+  {
+    "id": "ned2",
+    "codigo": "NED2",
+    "nome": "Holanda - figurinha 2",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 422
+  },
+  {
+    "id": "ned3",
+    "codigo": "NED3",
+    "nome": "Holanda - figurinha 3",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 423
+  },
+  {
+    "id": "ned4",
+    "codigo": "NED4",
+    "nome": "Holanda - figurinha 4",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 424
+  },
+  {
+    "id": "ned5",
+    "codigo": "NED5",
+    "nome": "Holanda - figurinha 5",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 425
+  },
+  {
+    "id": "ned6",
+    "codigo": "NED6",
+    "nome": "Holanda - figurinha 6",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 426
+  },
+  {
+    "id": "ned7",
+    "codigo": "NED7",
+    "nome": "Holanda - figurinha 7",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 427
+  },
+  {
+    "id": "ned8",
+    "codigo": "NED8",
+    "nome": "Holanda - figurinha 8",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 428
+  },
+  {
+    "id": "ned9",
+    "codigo": "NED9",
+    "nome": "Holanda - figurinha 9",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 429
+  },
+  {
+    "id": "ned10",
+    "codigo": "NED10",
+    "nome": "Holanda - figurinha 10",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 430
+  },
+  {
+    "id": "ned11",
+    "codigo": "NED11",
+    "nome": "Holanda - figurinha 11",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 431
+  },
+  {
+    "id": "ned12",
+    "codigo": "NED12",
+    "nome": "Holanda - figurinha 12",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 432
+  },
+  {
+    "id": "ned13",
+    "codigo": "NED13",
+    "nome": "Holanda - figurinha 13",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 433
+  },
+  {
+    "id": "ned14",
+    "codigo": "NED14",
+    "nome": "Holanda - figurinha 14",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 434
+  },
+  {
+    "id": "ned15",
+    "codigo": "NED15",
+    "nome": "Holanda - figurinha 15",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 435
+  },
+  {
+    "id": "ned16",
+    "codigo": "NED16",
+    "nome": "Holanda - figurinha 16",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 436
+  },
+  {
+    "id": "ned17",
+    "codigo": "NED17",
+    "nome": "Holanda - figurinha 17",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 437
+  },
+  {
+    "id": "ned18",
+    "codigo": "NED18",
+    "nome": "Holanda - figurinha 18",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 438
+  },
+  {
+    "id": "ned19",
+    "codigo": "NED19",
+    "nome": "Holanda - figurinha 19",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 439
+  },
+  {
+    "id": "ned20",
+    "codigo": "NED20",
+    "nome": "Holanda - figurinha 20",
+    "grupo": "Grupo F",
+    "secao": "Holanda",
+    "ordem": 440
+  },
+  {
+    "id": "jpn1",
+    "codigo": "JPN1",
+    "nome": "Japão - figurinha 1",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 441
+  },
+  {
+    "id": "jpn2",
+    "codigo": "JPN2",
+    "nome": "Japão - figurinha 2",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 442
+  },
+  {
+    "id": "jpn3",
+    "codigo": "JPN3",
+    "nome": "Japão - figurinha 3",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 443
+  },
+  {
+    "id": "jpn4",
+    "codigo": "JPN4",
+    "nome": "Japão - figurinha 4",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 444
+  },
+  {
+    "id": "jpn5",
+    "codigo": "JPN5",
+    "nome": "Japão - figurinha 5",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 445
+  },
+  {
+    "id": "jpn6",
+    "codigo": "JPN6",
+    "nome": "Japão - figurinha 6",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 446
+  },
+  {
+    "id": "jpn7",
+    "codigo": "JPN7",
+    "nome": "Japão - figurinha 7",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 447
+  },
+  {
+    "id": "jpn8",
+    "codigo": "JPN8",
+    "nome": "Japão - figurinha 8",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 448
+  },
+  {
+    "id": "jpn9",
+    "codigo": "JPN9",
+    "nome": "Japão - figurinha 9",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 449
+  },
+  {
+    "id": "jpn10",
+    "codigo": "JPN10",
+    "nome": "Japão - figurinha 10",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 450
+  },
+  {
+    "id": "jpn11",
+    "codigo": "JPN11",
+    "nome": "Japão - figurinha 11",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 451
+  },
+  {
+    "id": "jpn12",
+    "codigo": "JPN12",
+    "nome": "Japão - figurinha 12",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 452
+  },
+  {
+    "id": "jpn13",
+    "codigo": "JPN13",
+    "nome": "Japão - figurinha 13",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 453
+  },
+  {
+    "id": "jpn14",
+    "codigo": "JPN14",
+    "nome": "Japão - figurinha 14",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 454
+  },
+  {
+    "id": "jpn15",
+    "codigo": "JPN15",
+    "nome": "Japão - figurinha 15",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 455
+  },
+  {
+    "id": "jpn16",
+    "codigo": "JPN16",
+    "nome": "Japão - figurinha 16",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 456
+  },
+  {
+    "id": "jpn17",
+    "codigo": "JPN17",
+    "nome": "Japão - figurinha 17",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 457
+  },
+  {
+    "id": "jpn18",
+    "codigo": "JPN18",
+    "nome": "Japão - figurinha 18",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 458
+  },
+  {
+    "id": "jpn19",
+    "codigo": "JPN19",
+    "nome": "Japão - figurinha 19",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 459
+  },
+  {
+    "id": "jpn20",
+    "codigo": "JPN20",
+    "nome": "Japão - figurinha 20",
+    "grupo": "Grupo F",
+    "secao": "Japão",
+    "ordem": 460
+  },
+  {
+    "id": "swe1",
+    "codigo": "SWE1",
+    "nome": "Suécia - figurinha 1",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 461
+  },
+  {
+    "id": "swe2",
+    "codigo": "SWE2",
+    "nome": "Suécia - figurinha 2",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 462
+  },
+  {
+    "id": "swe3",
+    "codigo": "SWE3",
+    "nome": "Suécia - figurinha 3",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 463
+  },
+  {
+    "id": "swe4",
+    "codigo": "SWE4",
+    "nome": "Suécia - figurinha 4",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 464
+  },
+  {
+    "id": "swe5",
+    "codigo": "SWE5",
+    "nome": "Suécia - figurinha 5",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 465
+  },
+  {
+    "id": "swe6",
+    "codigo": "SWE6",
+    "nome": "Suécia - figurinha 6",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 466
+  },
+  {
+    "id": "swe7",
+    "codigo": "SWE7",
+    "nome": "Suécia - figurinha 7",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 467
+  },
+  {
+    "id": "swe8",
+    "codigo": "SWE8",
+    "nome": "Suécia - figurinha 8",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 468
+  },
+  {
+    "id": "swe9",
+    "codigo": "SWE9",
+    "nome": "Suécia - figurinha 9",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 469
+  },
+  {
+    "id": "swe10",
+    "codigo": "SWE10",
+    "nome": "Suécia - figurinha 10",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 470
+  },
+  {
+    "id": "swe11",
+    "codigo": "SWE11",
+    "nome": "Suécia - figurinha 11",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 471
+  },
+  {
+    "id": "swe12",
+    "codigo": "SWE12",
+    "nome": "Suécia - figurinha 12",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 472
+  },
+  {
+    "id": "swe13",
+    "codigo": "SWE13",
+    "nome": "Suécia - figurinha 13",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 473
+  },
+  {
+    "id": "swe14",
+    "codigo": "SWE14",
+    "nome": "Suécia - figurinha 14",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 474
+  },
+  {
+    "id": "swe15",
+    "codigo": "SWE15",
+    "nome": "Suécia - figurinha 15",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 475
+  },
+  {
+    "id": "swe16",
+    "codigo": "SWE16",
+    "nome": "Suécia - figurinha 16",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 476
+  },
+  {
+    "id": "swe17",
+    "codigo": "SWE17",
+    "nome": "Suécia - figurinha 17",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 477
+  },
+  {
+    "id": "swe18",
+    "codigo": "SWE18",
+    "nome": "Suécia - figurinha 18",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 478
+  },
+  {
+    "id": "swe19",
+    "codigo": "SWE19",
+    "nome": "Suécia - figurinha 19",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 479
+  },
+  {
+    "id": "swe20",
+    "codigo": "SWE20",
+    "nome": "Suécia - figurinha 20",
+    "grupo": "Grupo F",
+    "secao": "Suécia",
+    "ordem": 480
+  },
+  {
+    "id": "tun1",
+    "codigo": "TUN1",
+    "nome": "Tunísia - figurinha 1",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 481
+  },
+  {
+    "id": "tun2",
+    "codigo": "TUN2",
+    "nome": "Tunísia - figurinha 2",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 482
+  },
+  {
+    "id": "tun3",
+    "codigo": "TUN3",
+    "nome": "Tunísia - figurinha 3",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 483
+  },
+  {
+    "id": "tun4",
+    "codigo": "TUN4",
+    "nome": "Tunísia - figurinha 4",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 484
+  },
+  {
+    "id": "tun5",
+    "codigo": "TUN5",
+    "nome": "Tunísia - figurinha 5",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 485
+  },
+  {
+    "id": "tun6",
+    "codigo": "TUN6",
+    "nome": "Tunísia - figurinha 6",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 486
+  },
+  {
+    "id": "tun7",
+    "codigo": "TUN7",
+    "nome": "Tunísia - figurinha 7",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 487
+  },
+  {
+    "id": "tun8",
+    "codigo": "TUN8",
+    "nome": "Tunísia - figurinha 8",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 488
+  },
+  {
+    "id": "tun9",
+    "codigo": "TUN9",
+    "nome": "Tunísia - figurinha 9",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 489
+  },
+  {
+    "id": "tun10",
+    "codigo": "TUN10",
+    "nome": "Tunísia - figurinha 10",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 490
+  },
+  {
+    "id": "tun11",
+    "codigo": "TUN11",
+    "nome": "Tunísia - figurinha 11",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 491
+  },
+  {
+    "id": "tun12",
+    "codigo": "TUN12",
+    "nome": "Tunísia - figurinha 12",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 492
+  },
+  {
+    "id": "tun13",
+    "codigo": "TUN13",
+    "nome": "Tunísia - figurinha 13",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 493
+  },
+  {
+    "id": "tun14",
+    "codigo": "TUN14",
+    "nome": "Tunísia - figurinha 14",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 494
+  },
+  {
+    "id": "tun15",
+    "codigo": "TUN15",
+    "nome": "Tunísia - figurinha 15",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 495
+  },
+  {
+    "id": "tun16",
+    "codigo": "TUN16",
+    "nome": "Tunísia - figurinha 16",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 496
+  },
+  {
+    "id": "tun17",
+    "codigo": "TUN17",
+    "nome": "Tunísia - figurinha 17",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 497
+  },
+  {
+    "id": "tun18",
+    "codigo": "TUN18",
+    "nome": "Tunísia - figurinha 18",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 498
+  },
+  {
+    "id": "tun19",
+    "codigo": "TUN19",
+    "nome": "Tunísia - figurinha 19",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 499
+  },
+  {
+    "id": "tun20",
+    "codigo": "TUN20",
+    "nome": "Tunísia - figurinha 20",
+    "grupo": "Grupo F",
+    "secao": "Tunísia",
+    "ordem": 500
+  },
+  {
+    "id": "bel1",
+    "codigo": "BEL1",
+    "nome": "Bélgica - figurinha 1",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 501
+  },
+  {
+    "id": "bel2",
+    "codigo": "BEL2",
+    "nome": "Bélgica - figurinha 2",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 502
+  },
+  {
+    "id": "bel3",
+    "codigo": "BEL3",
+    "nome": "Bélgica - figurinha 3",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 503
+  },
+  {
+    "id": "bel4",
+    "codigo": "BEL4",
+    "nome": "Bélgica - figurinha 4",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 504
+  },
+  {
+    "id": "bel5",
+    "codigo": "BEL5",
+    "nome": "Bélgica - figurinha 5",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 505
+  },
+  {
+    "id": "bel6",
+    "codigo": "BEL6",
+    "nome": "Bélgica - figurinha 6",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 506
+  },
+  {
+    "id": "bel7",
+    "codigo": "BEL7",
+    "nome": "Bélgica - figurinha 7",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 507
+  },
+  {
+    "id": "bel8",
+    "codigo": "BEL8",
+    "nome": "Bélgica - figurinha 8",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 508
+  },
+  {
+    "id": "bel9",
+    "codigo": "BEL9",
+    "nome": "Bélgica - figurinha 9",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 509
+  },
+  {
+    "id": "bel10",
+    "codigo": "BEL10",
+    "nome": "Bélgica - figurinha 10",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 510
+  },
+  {
+    "id": "bel11",
+    "codigo": "BEL11",
+    "nome": "Bélgica - figurinha 11",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 511
+  },
+  {
+    "id": "bel12",
+    "codigo": "BEL12",
+    "nome": "Bélgica - figurinha 12",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 512
+  },
+  {
+    "id": "bel13",
+    "codigo": "BEL13",
+    "nome": "Bélgica - figurinha 13",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 513
+  },
+  {
+    "id": "bel14",
+    "codigo": "BEL14",
+    "nome": "Bélgica - figurinha 14",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 514
+  },
+  {
+    "id": "bel15",
+    "codigo": "BEL15",
+    "nome": "Bélgica - figurinha 15",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 515
+  },
+  {
+    "id": "bel16",
+    "codigo": "BEL16",
+    "nome": "Bélgica - figurinha 16",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 516
+  },
+  {
+    "id": "bel17",
+    "codigo": "BEL17",
+    "nome": "Bélgica - figurinha 17",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 517
+  },
+  {
+    "id": "bel18",
+    "codigo": "BEL18",
+    "nome": "Bélgica - figurinha 18",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 518
+  },
+  {
+    "id": "bel19",
+    "codigo": "BEL19",
+    "nome": "Bélgica - figurinha 19",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 519
+  },
+  {
+    "id": "bel20",
+    "codigo": "BEL20",
+    "nome": "Bélgica - figurinha 20",
+    "grupo": "Grupo G",
+    "secao": "Bélgica",
+    "ordem": 520
+  },
+  {
+    "id": "egy1",
+    "codigo": "EGY1",
+    "nome": "Egito - figurinha 1",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 521
+  },
+  {
+    "id": "egy2",
+    "codigo": "EGY2",
+    "nome": "Egito - figurinha 2",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 522
+  },
+  {
+    "id": "egy3",
+    "codigo": "EGY3",
+    "nome": "Egito - figurinha 3",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 523
+  },
+  {
+    "id": "egy4",
+    "codigo": "EGY4",
+    "nome": "Egito - figurinha 4",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 524
+  },
+  {
+    "id": "egy5",
+    "codigo": "EGY5",
+    "nome": "Egito - figurinha 5",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 525
+  },
+  {
+    "id": "egy6",
+    "codigo": "EGY6",
+    "nome": "Egito - figurinha 6",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 526
+  },
+  {
+    "id": "egy7",
+    "codigo": "EGY7",
+    "nome": "Egito - figurinha 7",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 527
+  },
+  {
+    "id": "egy8",
+    "codigo": "EGY8",
+    "nome": "Egito - figurinha 8",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 528
+  },
+  {
+    "id": "egy9",
+    "codigo": "EGY9",
+    "nome": "Egito - figurinha 9",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 529
+  },
+  {
+    "id": "egy10",
+    "codigo": "EGY10",
+    "nome": "Egito - figurinha 10",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 530
+  },
+  {
+    "id": "egy11",
+    "codigo": "EGY11",
+    "nome": "Egito - figurinha 11",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 531
+  },
+  {
+    "id": "egy12",
+    "codigo": "EGY12",
+    "nome": "Egito - figurinha 12",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 532
+  },
+  {
+    "id": "egy13",
+    "codigo": "EGY13",
+    "nome": "Egito - figurinha 13",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 533
+  },
+  {
+    "id": "egy14",
+    "codigo": "EGY14",
+    "nome": "Egito - figurinha 14",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 534
+  },
+  {
+    "id": "egy15",
+    "codigo": "EGY15",
+    "nome": "Egito - figurinha 15",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 535
+  },
+  {
+    "id": "egy16",
+    "codigo": "EGY16",
+    "nome": "Egito - figurinha 16",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 536
+  },
+  {
+    "id": "egy17",
+    "codigo": "EGY17",
+    "nome": "Egito - figurinha 17",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 537
+  },
+  {
+    "id": "egy18",
+    "codigo": "EGY18",
+    "nome": "Egito - figurinha 18",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 538
+  },
+  {
+    "id": "egy19",
+    "codigo": "EGY19",
+    "nome": "Egito - figurinha 19",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 539
+  },
+  {
+    "id": "egy20",
+    "codigo": "EGY20",
+    "nome": "Egito - figurinha 20",
+    "grupo": "Grupo G",
+    "secao": "Egito",
+    "ordem": 540
+  },
+  {
+    "id": "irn1",
+    "codigo": "IRN1",
+    "nome": "Irã - figurinha 1",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 541
+  },
+  {
+    "id": "irn2",
+    "codigo": "IRN2",
+    "nome": "Irã - figurinha 2",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 542
+  },
+  {
+    "id": "irn3",
+    "codigo": "IRN3",
+    "nome": "Irã - figurinha 3",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 543
+  },
+  {
+    "id": "irn4",
+    "codigo": "IRN4",
+    "nome": "Irã - figurinha 4",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 544
+  },
+  {
+    "id": "irn5",
+    "codigo": "IRN5",
+    "nome": "Irã - figurinha 5",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 545
+  },
+  {
+    "id": "irn6",
+    "codigo": "IRN6",
+    "nome": "Irã - figurinha 6",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 546
+  },
+  {
+    "id": "irn7",
+    "codigo": "IRN7",
+    "nome": "Irã - figurinha 7",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 547
+  },
+  {
+    "id": "irn8",
+    "codigo": "IRN8",
+    "nome": "Irã - figurinha 8",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 548
+  },
+  {
+    "id": "irn9",
+    "codigo": "IRN9",
+    "nome": "Irã - figurinha 9",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 549
+  },
+  {
+    "id": "irn10",
+    "codigo": "IRN10",
+    "nome": "Irã - figurinha 10",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 550
+  },
+  {
+    "id": "irn11",
+    "codigo": "IRN11",
+    "nome": "Irã - figurinha 11",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 551
+  },
+  {
+    "id": "irn12",
+    "codigo": "IRN12",
+    "nome": "Irã - figurinha 12",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 552
+  },
+  {
+    "id": "irn13",
+    "codigo": "IRN13",
+    "nome": "Irã - figurinha 13",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 553
+  },
+  {
+    "id": "irn14",
+    "codigo": "IRN14",
+    "nome": "Irã - figurinha 14",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 554
+  },
+  {
+    "id": "irn15",
+    "codigo": "IRN15",
+    "nome": "Irã - figurinha 15",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 555
+  },
+  {
+    "id": "irn16",
+    "codigo": "IRN16",
+    "nome": "Irã - figurinha 16",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 556
+  },
+  {
+    "id": "irn17",
+    "codigo": "IRN17",
+    "nome": "Irã - figurinha 17",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 557
+  },
+  {
+    "id": "irn18",
+    "codigo": "IRN18",
+    "nome": "Irã - figurinha 18",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 558
+  },
+  {
+    "id": "irn19",
+    "codigo": "IRN19",
+    "nome": "Irã - figurinha 19",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 559
+  },
+  {
+    "id": "irn20",
+    "codigo": "IRN20",
+    "nome": "Irã - figurinha 20",
+    "grupo": "Grupo G",
+    "secao": "Irã",
+    "ordem": 560
+  },
+  {
+    "id": "nzl1",
+    "codigo": "NZL1",
+    "nome": "Nova Zelândia - figurinha 1",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 561
+  },
+  {
+    "id": "nzl2",
+    "codigo": "NZL2",
+    "nome": "Nova Zelândia - figurinha 2",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 562
+  },
+  {
+    "id": "nzl3",
+    "codigo": "NZL3",
+    "nome": "Nova Zelândia - figurinha 3",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 563
+  },
+  {
+    "id": "nzl4",
+    "codigo": "NZL4",
+    "nome": "Nova Zelândia - figurinha 4",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 564
+  },
+  {
+    "id": "nzl5",
+    "codigo": "NZL5",
+    "nome": "Nova Zelândia - figurinha 5",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 565
+  },
+  {
+    "id": "nzl6",
+    "codigo": "NZL6",
+    "nome": "Nova Zelândia - figurinha 6",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 566
+  },
+  {
+    "id": "nzl7",
+    "codigo": "NZL7",
+    "nome": "Nova Zelândia - figurinha 7",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 567
+  },
+  {
+    "id": "nzl8",
+    "codigo": "NZL8",
+    "nome": "Nova Zelândia - figurinha 8",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 568
+  },
+  {
+    "id": "nzl9",
+    "codigo": "NZL9",
+    "nome": "Nova Zelândia - figurinha 9",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 569
+  },
+  {
+    "id": "nzl10",
+    "codigo": "NZL10",
+    "nome": "Nova Zelândia - figurinha 10",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 570
+  },
+  {
+    "id": "nzl11",
+    "codigo": "NZL11",
+    "nome": "Nova Zelândia - figurinha 11",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 571
+  },
+  {
+    "id": "nzl12",
+    "codigo": "NZL12",
+    "nome": "Nova Zelândia - figurinha 12",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 572
+  },
+  {
+    "id": "nzl13",
+    "codigo": "NZL13",
+    "nome": "Nova Zelândia - figurinha 13",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 573
+  },
+  {
+    "id": "nzl14",
+    "codigo": "NZL14",
+    "nome": "Nova Zelândia - figurinha 14",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 574
+  },
+  {
+    "id": "nzl15",
+    "codigo": "NZL15",
+    "nome": "Nova Zelândia - figurinha 15",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 575
+  },
+  {
+    "id": "nzl16",
+    "codigo": "NZL16",
+    "nome": "Nova Zelândia - figurinha 16",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 576
+  },
+  {
+    "id": "nzl17",
+    "codigo": "NZL17",
+    "nome": "Nova Zelândia - figurinha 17",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 577
+  },
+  {
+    "id": "nzl18",
+    "codigo": "NZL18",
+    "nome": "Nova Zelândia - figurinha 18",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 578
+  },
+  {
+    "id": "nzl19",
+    "codigo": "NZL19",
+    "nome": "Nova Zelândia - figurinha 19",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 579
+  },
+  {
+    "id": "nzl20",
+    "codigo": "NZL20",
+    "nome": "Nova Zelândia - figurinha 20",
+    "grupo": "Grupo G",
+    "secao": "Nova Zelândia",
+    "ordem": 580
+  },
+  {
+    "id": "esp1",
+    "codigo": "ESP1",
+    "nome": "Espanha - figurinha 1",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 581
+  },
+  {
+    "id": "esp2",
+    "codigo": "ESP2",
+    "nome": "Espanha - figurinha 2",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 582
+  },
+  {
+    "id": "esp3",
+    "codigo": "ESP3",
+    "nome": "Espanha - figurinha 3",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 583
+  },
+  {
+    "id": "esp4",
+    "codigo": "ESP4",
+    "nome": "Espanha - figurinha 4",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 584
+  },
+  {
+    "id": "esp5",
+    "codigo": "ESP5",
+    "nome": "Espanha - figurinha 5",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 585
+  },
+  {
+    "id": "esp6",
+    "codigo": "ESP6",
+    "nome": "Espanha - figurinha 6",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 586
+  },
+  {
+    "id": "esp7",
+    "codigo": "ESP7",
+    "nome": "Espanha - figurinha 7",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 587
+  },
+  {
+    "id": "esp8",
+    "codigo": "ESP8",
+    "nome": "Espanha - figurinha 8",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 588
+  },
+  {
+    "id": "esp9",
+    "codigo": "ESP9",
+    "nome": "Espanha - figurinha 9",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 589
+  },
+  {
+    "id": "esp10",
+    "codigo": "ESP10",
+    "nome": "Espanha - figurinha 10",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 590
+  },
+  {
+    "id": "esp11",
+    "codigo": "ESP11",
+    "nome": "Espanha - figurinha 11",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 591
+  },
+  {
+    "id": "esp12",
+    "codigo": "ESP12",
+    "nome": "Espanha - figurinha 12",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 592
+  },
+  {
+    "id": "esp13",
+    "codigo": "ESP13",
+    "nome": "Espanha - figurinha 13",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 593
+  },
+  {
+    "id": "esp14",
+    "codigo": "ESP14",
+    "nome": "Espanha - figurinha 14",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 594
+  },
+  {
+    "id": "esp15",
+    "codigo": "ESP15",
+    "nome": "Espanha - figurinha 15",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 595
+  },
+  {
+    "id": "esp16",
+    "codigo": "ESP16",
+    "nome": "Espanha - figurinha 16",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 596
+  },
+  {
+    "id": "esp17",
+    "codigo": "ESP17",
+    "nome": "Espanha - figurinha 17",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 597
+  },
+  {
+    "id": "esp18",
+    "codigo": "ESP18",
+    "nome": "Espanha - figurinha 18",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 598
+  },
+  {
+    "id": "esp19",
+    "codigo": "ESP19",
+    "nome": "Espanha - figurinha 19",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 599
+  },
+  {
+    "id": "esp20",
+    "codigo": "ESP20",
+    "nome": "Espanha - figurinha 20",
+    "grupo": "Grupo H",
+    "secao": "Espanha",
+    "ordem": 600
+  },
+  {
+    "id": "cpv1",
+    "codigo": "CPV1",
+    "nome": "Cabo Verde - figurinha 1",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 601
+  },
+  {
+    "id": "cpv2",
+    "codigo": "CPV2",
+    "nome": "Cabo Verde - figurinha 2",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 602
+  },
+  {
+    "id": "cpv3",
+    "codigo": "CPV3",
+    "nome": "Cabo Verde - figurinha 3",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 603
+  },
+  {
+    "id": "cpv4",
+    "codigo": "CPV4",
+    "nome": "Cabo Verde - figurinha 4",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 604
+  },
+  {
+    "id": "cpv5",
+    "codigo": "CPV5",
+    "nome": "Cabo Verde - figurinha 5",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 605
+  },
+  {
+    "id": "cpv6",
+    "codigo": "CPV6",
+    "nome": "Cabo Verde - figurinha 6",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 606
+  },
+  {
+    "id": "cpv7",
+    "codigo": "CPV7",
+    "nome": "Cabo Verde - figurinha 7",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 607
+  },
+  {
+    "id": "cpv8",
+    "codigo": "CPV8",
+    "nome": "Cabo Verde - figurinha 8",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 608
+  },
+  {
+    "id": "cpv9",
+    "codigo": "CPV9",
+    "nome": "Cabo Verde - figurinha 9",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 609
+  },
+  {
+    "id": "cpv10",
+    "codigo": "CPV10",
+    "nome": "Cabo Verde - figurinha 10",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 610
+  },
+  {
+    "id": "cpv11",
+    "codigo": "CPV11",
+    "nome": "Cabo Verde - figurinha 11",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 611
+  },
+  {
+    "id": "cpv12",
+    "codigo": "CPV12",
+    "nome": "Cabo Verde - figurinha 12",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 612
+  },
+  {
+    "id": "cpv13",
+    "codigo": "CPV13",
+    "nome": "Cabo Verde - figurinha 13",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 613
+  },
+  {
+    "id": "cpv14",
+    "codigo": "CPV14",
+    "nome": "Cabo Verde - figurinha 14",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 614
+  },
+  {
+    "id": "cpv15",
+    "codigo": "CPV15",
+    "nome": "Cabo Verde - figurinha 15",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 615
+  },
+  {
+    "id": "cpv16",
+    "codigo": "CPV16",
+    "nome": "Cabo Verde - figurinha 16",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 616
+  },
+  {
+    "id": "cpv17",
+    "codigo": "CPV17",
+    "nome": "Cabo Verde - figurinha 17",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 617
+  },
+  {
+    "id": "cpv18",
+    "codigo": "CPV18",
+    "nome": "Cabo Verde - figurinha 18",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 618
+  },
+  {
+    "id": "cpv19",
+    "codigo": "CPV19",
+    "nome": "Cabo Verde - figurinha 19",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 619
+  },
+  {
+    "id": "cpv20",
+    "codigo": "CPV20",
+    "nome": "Cabo Verde - figurinha 20",
+    "grupo": "Grupo H",
+    "secao": "Cabo Verde",
+    "ordem": 620
+  },
+  {
+    "id": "ksa1",
+    "codigo": "KSA1",
+    "nome": "Arábia Saudita - figurinha 1",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 621
+  },
+  {
+    "id": "ksa2",
+    "codigo": "KSA2",
+    "nome": "Arábia Saudita - figurinha 2",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 622
+  },
+  {
+    "id": "ksa3",
+    "codigo": "KSA3",
+    "nome": "Arábia Saudita - figurinha 3",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 623
+  },
+  {
+    "id": "ksa4",
+    "codigo": "KSA4",
+    "nome": "Arábia Saudita - figurinha 4",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 624
+  },
+  {
+    "id": "ksa5",
+    "codigo": "KSA5",
+    "nome": "Arábia Saudita - figurinha 5",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 625
+  },
+  {
+    "id": "ksa6",
+    "codigo": "KSA6",
+    "nome": "Arábia Saudita - figurinha 6",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 626
+  },
+  {
+    "id": "ksa7",
+    "codigo": "KSA7",
+    "nome": "Arábia Saudita - figurinha 7",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 627
+  },
+  {
+    "id": "ksa8",
+    "codigo": "KSA8",
+    "nome": "Arábia Saudita - figurinha 8",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 628
+  },
+  {
+    "id": "ksa9",
+    "codigo": "KSA9",
+    "nome": "Arábia Saudita - figurinha 9",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 629
+  },
+  {
+    "id": "ksa10",
+    "codigo": "KSA10",
+    "nome": "Arábia Saudita - figurinha 10",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 630
+  },
+  {
+    "id": "ksa11",
+    "codigo": "KSA11",
+    "nome": "Arábia Saudita - figurinha 11",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 631
+  },
+  {
+    "id": "ksa12",
+    "codigo": "KSA12",
+    "nome": "Arábia Saudita - figurinha 12",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 632
+  },
+  {
+    "id": "ksa13",
+    "codigo": "KSA13",
+    "nome": "Arábia Saudita - figurinha 13",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 633
+  },
+  {
+    "id": "ksa14",
+    "codigo": "KSA14",
+    "nome": "Arábia Saudita - figurinha 14",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 634
+  },
+  {
+    "id": "ksa15",
+    "codigo": "KSA15",
+    "nome": "Arábia Saudita - figurinha 15",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 635
+  },
+  {
+    "id": "ksa16",
+    "codigo": "KSA16",
+    "nome": "Arábia Saudita - figurinha 16",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 636
+  },
+  {
+    "id": "ksa17",
+    "codigo": "KSA17",
+    "nome": "Arábia Saudita - figurinha 17",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 637
+  },
+  {
+    "id": "ksa18",
+    "codigo": "KSA18",
+    "nome": "Arábia Saudita - figurinha 18",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 638
+  },
+  {
+    "id": "ksa19",
+    "codigo": "KSA19",
+    "nome": "Arábia Saudita - figurinha 19",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 639
+  },
+  {
+    "id": "ksa20",
+    "codigo": "KSA20",
+    "nome": "Arábia Saudita - figurinha 20",
+    "grupo": "Grupo H",
+    "secao": "Arábia Saudita",
+    "ordem": 640
+  },
+  {
+    "id": "uru1",
+    "codigo": "URU1",
+    "nome": "Uruguai - figurinha 1",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 641
+  },
+  {
+    "id": "uru2",
+    "codigo": "URU2",
+    "nome": "Uruguai - figurinha 2",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 642
+  },
+  {
+    "id": "uru3",
+    "codigo": "URU3",
+    "nome": "Uruguai - figurinha 3",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 643
+  },
+  {
+    "id": "uru4",
+    "codigo": "URU4",
+    "nome": "Uruguai - figurinha 4",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 644
+  },
+  {
+    "id": "uru5",
+    "codigo": "URU5",
+    "nome": "Uruguai - figurinha 5",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 645
+  },
+  {
+    "id": "uru6",
+    "codigo": "URU6",
+    "nome": "Uruguai - figurinha 6",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 646
+  },
+  {
+    "id": "uru7",
+    "codigo": "URU7",
+    "nome": "Uruguai - figurinha 7",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 647
+  },
+  {
+    "id": "uru8",
+    "codigo": "URU8",
+    "nome": "Uruguai - figurinha 8",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 648
+  },
+  {
+    "id": "uru9",
+    "codigo": "URU9",
+    "nome": "Uruguai - figurinha 9",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 649
+  },
+  {
+    "id": "uru10",
+    "codigo": "URU10",
+    "nome": "Uruguai - figurinha 10",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 650
+  },
+  {
+    "id": "uru11",
+    "codigo": "URU11",
+    "nome": "Uruguai - figurinha 11",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 651
+  },
+  {
+    "id": "uru12",
+    "codigo": "URU12",
+    "nome": "Uruguai - figurinha 12",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 652
+  },
+  {
+    "id": "uru13",
+    "codigo": "URU13",
+    "nome": "Uruguai - figurinha 13",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 653
+  },
+  {
+    "id": "uru14",
+    "codigo": "URU14",
+    "nome": "Uruguai - figurinha 14",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 654
+  },
+  {
+    "id": "uru15",
+    "codigo": "URU15",
+    "nome": "Uruguai - figurinha 15",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 655
+  },
+  {
+    "id": "uru16",
+    "codigo": "URU16",
+    "nome": "Uruguai - figurinha 16",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 656
+  },
+  {
+    "id": "uru17",
+    "codigo": "URU17",
+    "nome": "Uruguai - figurinha 17",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 657
+  },
+  {
+    "id": "uru18",
+    "codigo": "URU18",
+    "nome": "Uruguai - figurinha 18",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 658
+  },
+  {
+    "id": "uru19",
+    "codigo": "URU19",
+    "nome": "Uruguai - figurinha 19",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 659
+  },
+  {
+    "id": "uru20",
+    "codigo": "URU20",
+    "nome": "Uruguai - figurinha 20",
+    "grupo": "Grupo H",
+    "secao": "Uruguai",
+    "ordem": 660
+  },
+  {
+    "id": "fra1",
+    "codigo": "FRA1",
+    "nome": "França - figurinha 1",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 661
+  },
+  {
+    "id": "fra2",
+    "codigo": "FRA2",
+    "nome": "França - figurinha 2",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 662
+  },
+  {
+    "id": "fra3",
+    "codigo": "FRA3",
+    "nome": "França - figurinha 3",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 663
+  },
+  {
+    "id": "fra4",
+    "codigo": "FRA4",
+    "nome": "França - figurinha 4",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 664
+  },
+  {
+    "id": "fra5",
+    "codigo": "FRA5",
+    "nome": "França - figurinha 5",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 665
+  },
+  {
+    "id": "fra6",
+    "codigo": "FRA6",
+    "nome": "França - figurinha 6",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 666
+  },
+  {
+    "id": "fra7",
+    "codigo": "FRA7",
+    "nome": "França - figurinha 7",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 667
+  },
+  {
+    "id": "fra8",
+    "codigo": "FRA8",
+    "nome": "França - figurinha 8",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 668
+  },
+  {
+    "id": "fra9",
+    "codigo": "FRA9",
+    "nome": "França - figurinha 9",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 669
+  },
+  {
+    "id": "fra10",
+    "codigo": "FRA10",
+    "nome": "França - figurinha 10",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 670
+  },
+  {
+    "id": "fra11",
+    "codigo": "FRA11",
+    "nome": "França - figurinha 11",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 671
+  },
+  {
+    "id": "fra12",
+    "codigo": "FRA12",
+    "nome": "França - figurinha 12",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 672
+  },
+  {
+    "id": "fra13",
+    "codigo": "FRA13",
+    "nome": "França - figurinha 13",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 673
+  },
+  {
+    "id": "fra14",
+    "codigo": "FRA14",
+    "nome": "França - figurinha 14",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 674
+  },
+  {
+    "id": "fra15",
+    "codigo": "FRA15",
+    "nome": "França - figurinha 15",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 675
+  },
+  {
+    "id": "fra16",
+    "codigo": "FRA16",
+    "nome": "França - figurinha 16",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 676
+  },
+  {
+    "id": "fra17",
+    "codigo": "FRA17",
+    "nome": "França - figurinha 17",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 677
+  },
+  {
+    "id": "fra18",
+    "codigo": "FRA18",
+    "nome": "França - figurinha 18",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 678
+  },
+  {
+    "id": "fra19",
+    "codigo": "FRA19",
+    "nome": "França - figurinha 19",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 679
+  },
+  {
+    "id": "fra20",
+    "codigo": "FRA20",
+    "nome": "França - figurinha 20",
+    "grupo": "Grupo I",
+    "secao": "França",
+    "ordem": 680
+  },
+  {
+    "id": "sen1",
+    "codigo": "SEN1",
+    "nome": "Senegal - figurinha 1",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 681
+  },
+  {
+    "id": "sen2",
+    "codigo": "SEN2",
+    "nome": "Senegal - figurinha 2",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 682
+  },
+  {
+    "id": "sen3",
+    "codigo": "SEN3",
+    "nome": "Senegal - figurinha 3",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 683
+  },
+  {
+    "id": "sen4",
+    "codigo": "SEN4",
+    "nome": "Senegal - figurinha 4",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 684
+  },
+  {
+    "id": "sen5",
+    "codigo": "SEN5",
+    "nome": "Senegal - figurinha 5",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 685
+  },
+  {
+    "id": "sen6",
+    "codigo": "SEN6",
+    "nome": "Senegal - figurinha 6",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 686
+  },
+  {
+    "id": "sen7",
+    "codigo": "SEN7",
+    "nome": "Senegal - figurinha 7",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 687
+  },
+  {
+    "id": "sen8",
+    "codigo": "SEN8",
+    "nome": "Senegal - figurinha 8",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 688
+  },
+  {
+    "id": "sen9",
+    "codigo": "SEN9",
+    "nome": "Senegal - figurinha 9",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 689
+  },
+  {
+    "id": "sen10",
+    "codigo": "SEN10",
+    "nome": "Senegal - figurinha 10",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 690
+  },
+  {
+    "id": "sen11",
+    "codigo": "SEN11",
+    "nome": "Senegal - figurinha 11",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 691
+  },
+  {
+    "id": "sen12",
+    "codigo": "SEN12",
+    "nome": "Senegal - figurinha 12",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 692
+  },
+  {
+    "id": "sen13",
+    "codigo": "SEN13",
+    "nome": "Senegal - figurinha 13",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 693
+  },
+  {
+    "id": "sen14",
+    "codigo": "SEN14",
+    "nome": "Senegal - figurinha 14",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 694
+  },
+  {
+    "id": "sen15",
+    "codigo": "SEN15",
+    "nome": "Senegal - figurinha 15",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 695
+  },
+  {
+    "id": "sen16",
+    "codigo": "SEN16",
+    "nome": "Senegal - figurinha 16",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 696
+  },
+  {
+    "id": "sen17",
+    "codigo": "SEN17",
+    "nome": "Senegal - figurinha 17",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 697
+  },
+  {
+    "id": "sen18",
+    "codigo": "SEN18",
+    "nome": "Senegal - figurinha 18",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 698
+  },
+  {
+    "id": "sen19",
+    "codigo": "SEN19",
+    "nome": "Senegal - figurinha 19",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 699
+  },
+  {
+    "id": "sen20",
+    "codigo": "SEN20",
+    "nome": "Senegal - figurinha 20",
+    "grupo": "Grupo I",
+    "secao": "Senegal",
+    "ordem": 700
+  },
+  {
+    "id": "irq1",
+    "codigo": "IRQ1",
+    "nome": "Iraque - figurinha 1",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 701
+  },
+  {
+    "id": "irq2",
+    "codigo": "IRQ2",
+    "nome": "Iraque - figurinha 2",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 702
+  },
+  {
+    "id": "irq3",
+    "codigo": "IRQ3",
+    "nome": "Iraque - figurinha 3",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 703
+  },
+  {
+    "id": "irq4",
+    "codigo": "IRQ4",
+    "nome": "Iraque - figurinha 4",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 704
+  },
+  {
+    "id": "irq5",
+    "codigo": "IRQ5",
+    "nome": "Iraque - figurinha 5",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 705
+  },
+  {
+    "id": "irq6",
+    "codigo": "IRQ6",
+    "nome": "Iraque - figurinha 6",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 706
+  },
+  {
+    "id": "irq7",
+    "codigo": "IRQ7",
+    "nome": "Iraque - figurinha 7",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 707
+  },
+  {
+    "id": "irq8",
+    "codigo": "IRQ8",
+    "nome": "Iraque - figurinha 8",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 708
+  },
+  {
+    "id": "irq9",
+    "codigo": "IRQ9",
+    "nome": "Iraque - figurinha 9",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 709
+  },
+  {
+    "id": "irq10",
+    "codigo": "IRQ10",
+    "nome": "Iraque - figurinha 10",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 710
+  },
+  {
+    "id": "irq11",
+    "codigo": "IRQ11",
+    "nome": "Iraque - figurinha 11",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 711
+  },
+  {
+    "id": "irq12",
+    "codigo": "IRQ12",
+    "nome": "Iraque - figurinha 12",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 712
+  },
+  {
+    "id": "irq13",
+    "codigo": "IRQ13",
+    "nome": "Iraque - figurinha 13",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 713
+  },
+  {
+    "id": "irq14",
+    "codigo": "IRQ14",
+    "nome": "Iraque - figurinha 14",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 714
+  },
+  {
+    "id": "irq15",
+    "codigo": "IRQ15",
+    "nome": "Iraque - figurinha 15",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 715
+  },
+  {
+    "id": "irq16",
+    "codigo": "IRQ16",
+    "nome": "Iraque - figurinha 16",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 716
+  },
+  {
+    "id": "irq17",
+    "codigo": "IRQ17",
+    "nome": "Iraque - figurinha 17",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 717
+  },
+  {
+    "id": "irq18",
+    "codigo": "IRQ18",
+    "nome": "Iraque - figurinha 18",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 718
+  },
+  {
+    "id": "irq19",
+    "codigo": "IRQ19",
+    "nome": "Iraque - figurinha 19",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 719
+  },
+  {
+    "id": "irq20",
+    "codigo": "IRQ20",
+    "nome": "Iraque - figurinha 20",
+    "grupo": "Grupo I",
+    "secao": "Iraque",
+    "ordem": 720
+  },
+  {
+    "id": "nor1",
+    "codigo": "NOR1",
+    "nome": "Noruega - figurinha 1",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 721
+  },
+  {
+    "id": "nor2",
+    "codigo": "NOR2",
+    "nome": "Noruega - figurinha 2",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 722
+  },
+  {
+    "id": "nor3",
+    "codigo": "NOR3",
+    "nome": "Noruega - figurinha 3",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 723
+  },
+  {
+    "id": "nor4",
+    "codigo": "NOR4",
+    "nome": "Noruega - figurinha 4",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 724
+  },
+  {
+    "id": "nor5",
+    "codigo": "NOR5",
+    "nome": "Noruega - figurinha 5",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 725
+  },
+  {
+    "id": "nor6",
+    "codigo": "NOR6",
+    "nome": "Noruega - figurinha 6",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 726
+  },
+  {
+    "id": "nor7",
+    "codigo": "NOR7",
+    "nome": "Noruega - figurinha 7",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 727
+  },
+  {
+    "id": "nor8",
+    "codigo": "NOR8",
+    "nome": "Noruega - figurinha 8",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 728
+  },
+  {
+    "id": "nor9",
+    "codigo": "NOR9",
+    "nome": "Noruega - figurinha 9",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 729
+  },
+  {
+    "id": "nor10",
+    "codigo": "NOR10",
+    "nome": "Noruega - figurinha 10",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 730
+  },
+  {
+    "id": "nor11",
+    "codigo": "NOR11",
+    "nome": "Noruega - figurinha 11",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 731
+  },
+  {
+    "id": "nor12",
+    "codigo": "NOR12",
+    "nome": "Noruega - figurinha 12",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 732
+  },
+  {
+    "id": "nor13",
+    "codigo": "NOR13",
+    "nome": "Noruega - figurinha 13",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 733
+  },
+  {
+    "id": "nor14",
+    "codigo": "NOR14",
+    "nome": "Noruega - figurinha 14",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 734
+  },
+  {
+    "id": "nor15",
+    "codigo": "NOR15",
+    "nome": "Noruega - figurinha 15",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 735
+  },
+  {
+    "id": "nor16",
+    "codigo": "NOR16",
+    "nome": "Noruega - figurinha 16",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 736
+  },
+  {
+    "id": "nor17",
+    "codigo": "NOR17",
+    "nome": "Noruega - figurinha 17",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 737
+  },
+  {
+    "id": "nor18",
+    "codigo": "NOR18",
+    "nome": "Noruega - figurinha 18",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 738
+  },
+  {
+    "id": "nor19",
+    "codigo": "NOR19",
+    "nome": "Noruega - figurinha 19",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 739
+  },
+  {
+    "id": "nor20",
+    "codigo": "NOR20",
+    "nome": "Noruega - figurinha 20",
+    "grupo": "Grupo I",
+    "secao": "Noruega",
+    "ordem": 740
+  },
+  {
+    "id": "arg1",
+    "codigo": "ARG1",
+    "nome": "Argentina - figurinha 1",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 741
+  },
+  {
+    "id": "arg2",
+    "codigo": "ARG2",
+    "nome": "Argentina - figurinha 2",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 742
+  },
+  {
+    "id": "arg3",
+    "codigo": "ARG3",
+    "nome": "Argentina - figurinha 3",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 743
+  },
+  {
+    "id": "arg4",
+    "codigo": "ARG4",
+    "nome": "Argentina - figurinha 4",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 744
+  },
+  {
+    "id": "arg5",
+    "codigo": "ARG5",
+    "nome": "Argentina - figurinha 5",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 745
+  },
+  {
+    "id": "arg6",
+    "codigo": "ARG6",
+    "nome": "Argentina - figurinha 6",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 746
+  },
+  {
+    "id": "arg7",
+    "codigo": "ARG7",
+    "nome": "Argentina - figurinha 7",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 747
+  },
+  {
+    "id": "arg8",
+    "codigo": "ARG8",
+    "nome": "Argentina - figurinha 8",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 748
+  },
+  {
+    "id": "arg9",
+    "codigo": "ARG9",
+    "nome": "Argentina - figurinha 9",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 749
+  },
+  {
+    "id": "arg10",
+    "codigo": "ARG10",
+    "nome": "Argentina - figurinha 10",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 750
+  },
+  {
+    "id": "arg11",
+    "codigo": "ARG11",
+    "nome": "Argentina - figurinha 11",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 751
+  },
+  {
+    "id": "arg12",
+    "codigo": "ARG12",
+    "nome": "Argentina - figurinha 12",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 752
+  },
+  {
+    "id": "arg13",
+    "codigo": "ARG13",
+    "nome": "Argentina - figurinha 13",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 753
+  },
+  {
+    "id": "arg14",
+    "codigo": "ARG14",
+    "nome": "Argentina - figurinha 14",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 754
+  },
+  {
+    "id": "arg15",
+    "codigo": "ARG15",
+    "nome": "Argentina - figurinha 15",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 755
+  },
+  {
+    "id": "arg16",
+    "codigo": "ARG16",
+    "nome": "Argentina - figurinha 16",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 756
+  },
+  {
+    "id": "arg17",
+    "codigo": "ARG17",
+    "nome": "Argentina - figurinha 17",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 757
+  },
+  {
+    "id": "arg18",
+    "codigo": "ARG18",
+    "nome": "Argentina - figurinha 18",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 758
+  },
+  {
+    "id": "arg19",
+    "codigo": "ARG19",
+    "nome": "Argentina - figurinha 19",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 759
+  },
+  {
+    "id": "arg20",
+    "codigo": "ARG20",
+    "nome": "Argentina - figurinha 20",
+    "grupo": "Grupo J",
+    "secao": "Argentina",
+    "ordem": 760
+  },
+  {
+    "id": "alg1",
+    "codigo": "ALG1",
+    "nome": "Argélia - figurinha 1",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 761
+  },
+  {
+    "id": "alg2",
+    "codigo": "ALG2",
+    "nome": "Argélia - figurinha 2",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 762
+  },
+  {
+    "id": "alg3",
+    "codigo": "ALG3",
+    "nome": "Argélia - figurinha 3",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 763
+  },
+  {
+    "id": "alg4",
+    "codigo": "ALG4",
+    "nome": "Argélia - figurinha 4",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 764
+  },
+  {
+    "id": "alg5",
+    "codigo": "ALG5",
+    "nome": "Argélia - figurinha 5",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 765
+  },
+  {
+    "id": "alg6",
+    "codigo": "ALG6",
+    "nome": "Argélia - figurinha 6",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 766
+  },
+  {
+    "id": "alg7",
+    "codigo": "ALG7",
+    "nome": "Argélia - figurinha 7",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 767
+  },
+  {
+    "id": "alg8",
+    "codigo": "ALG8",
+    "nome": "Argélia - figurinha 8",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 768
+  },
+  {
+    "id": "alg9",
+    "codigo": "ALG9",
+    "nome": "Argélia - figurinha 9",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 769
+  },
+  {
+    "id": "alg10",
+    "codigo": "ALG10",
+    "nome": "Argélia - figurinha 10",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 770
+  },
+  {
+    "id": "alg11",
+    "codigo": "ALG11",
+    "nome": "Argélia - figurinha 11",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 771
+  },
+  {
+    "id": "alg12",
+    "codigo": "ALG12",
+    "nome": "Argélia - figurinha 12",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 772
+  },
+  {
+    "id": "alg13",
+    "codigo": "ALG13",
+    "nome": "Argélia - figurinha 13",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 773
+  },
+  {
+    "id": "alg14",
+    "codigo": "ALG14",
+    "nome": "Argélia - figurinha 14",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 774
+  },
+  {
+    "id": "alg15",
+    "codigo": "ALG15",
+    "nome": "Argélia - figurinha 15",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 775
+  },
+  {
+    "id": "alg16",
+    "codigo": "ALG16",
+    "nome": "Argélia - figurinha 16",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 776
+  },
+  {
+    "id": "alg17",
+    "codigo": "ALG17",
+    "nome": "Argélia - figurinha 17",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 777
+  },
+  {
+    "id": "alg18",
+    "codigo": "ALG18",
+    "nome": "Argélia - figurinha 18",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 778
+  },
+  {
+    "id": "alg19",
+    "codigo": "ALG19",
+    "nome": "Argélia - figurinha 19",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 779
+  },
+  {
+    "id": "alg20",
+    "codigo": "ALG20",
+    "nome": "Argélia - figurinha 20",
+    "grupo": "Grupo J",
+    "secao": "Argélia",
+    "ordem": 780
+  },
+  {
+    "id": "aut1",
+    "codigo": "AUT1",
+    "nome": "Áustria - figurinha 1",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 781
+  },
+  {
+    "id": "aut2",
+    "codigo": "AUT2",
+    "nome": "Áustria - figurinha 2",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 782
+  },
+  {
+    "id": "aut3",
+    "codigo": "AUT3",
+    "nome": "Áustria - figurinha 3",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 783
+  },
+  {
+    "id": "aut4",
+    "codigo": "AUT4",
+    "nome": "Áustria - figurinha 4",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 784
+  },
+  {
+    "id": "aut5",
+    "codigo": "AUT5",
+    "nome": "Áustria - figurinha 5",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 785
+  },
+  {
+    "id": "aut6",
+    "codigo": "AUT6",
+    "nome": "Áustria - figurinha 6",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 786
+  },
+  {
+    "id": "aut7",
+    "codigo": "AUT7",
+    "nome": "Áustria - figurinha 7",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 787
+  },
+  {
+    "id": "aut8",
+    "codigo": "AUT8",
+    "nome": "Áustria - figurinha 8",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 788
+  },
+  {
+    "id": "aut9",
+    "codigo": "AUT9",
+    "nome": "Áustria - figurinha 9",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 789
+  },
+  {
+    "id": "aut10",
+    "codigo": "AUT10",
+    "nome": "Áustria - figurinha 10",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 790
+  },
+  {
+    "id": "aut11",
+    "codigo": "AUT11",
+    "nome": "Áustria - figurinha 11",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 791
+  },
+  {
+    "id": "aut12",
+    "codigo": "AUT12",
+    "nome": "Áustria - figurinha 12",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 792
+  },
+  {
+    "id": "aut13",
+    "codigo": "AUT13",
+    "nome": "Áustria - figurinha 13",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 793
+  },
+  {
+    "id": "aut14",
+    "codigo": "AUT14",
+    "nome": "Áustria - figurinha 14",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 794
+  },
+  {
+    "id": "aut15",
+    "codigo": "AUT15",
+    "nome": "Áustria - figurinha 15",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 795
+  },
+  {
+    "id": "aut16",
+    "codigo": "AUT16",
+    "nome": "Áustria - figurinha 16",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 796
+  },
+  {
+    "id": "aut17",
+    "codigo": "AUT17",
+    "nome": "Áustria - figurinha 17",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 797
+  },
+  {
+    "id": "aut18",
+    "codigo": "AUT18",
+    "nome": "Áustria - figurinha 18",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 798
+  },
+  {
+    "id": "aut19",
+    "codigo": "AUT19",
+    "nome": "Áustria - figurinha 19",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 799
+  },
+  {
+    "id": "aut20",
+    "codigo": "AUT20",
+    "nome": "Áustria - figurinha 20",
+    "grupo": "Grupo J",
+    "secao": "Áustria",
+    "ordem": 800
+  },
+  {
+    "id": "jor1",
+    "codigo": "JOR1",
+    "nome": "Jordânia - figurinha 1",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 801
+  },
+  {
+    "id": "jor2",
+    "codigo": "JOR2",
+    "nome": "Jordânia - figurinha 2",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 802
+  },
+  {
+    "id": "jor3",
+    "codigo": "JOR3",
+    "nome": "Jordânia - figurinha 3",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 803
+  },
+  {
+    "id": "jor4",
+    "codigo": "JOR4",
+    "nome": "Jordânia - figurinha 4",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 804
+  },
+  {
+    "id": "jor5",
+    "codigo": "JOR5",
+    "nome": "Jordânia - figurinha 5",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 805
+  },
+  {
+    "id": "jor6",
+    "codigo": "JOR6",
+    "nome": "Jordânia - figurinha 6",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 806
+  },
+  {
+    "id": "jor7",
+    "codigo": "JOR7",
+    "nome": "Jordânia - figurinha 7",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 807
+  },
+  {
+    "id": "jor8",
+    "codigo": "JOR8",
+    "nome": "Jordânia - figurinha 8",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 808
+  },
+  {
+    "id": "jor9",
+    "codigo": "JOR9",
+    "nome": "Jordânia - figurinha 9",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 809
+  },
+  {
+    "id": "jor10",
+    "codigo": "JOR10",
+    "nome": "Jordânia - figurinha 10",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 810
+  },
+  {
+    "id": "jor11",
+    "codigo": "JOR11",
+    "nome": "Jordânia - figurinha 11",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 811
+  },
+  {
+    "id": "jor12",
+    "codigo": "JOR12",
+    "nome": "Jordânia - figurinha 12",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 812
+  },
+  {
+    "id": "jor13",
+    "codigo": "JOR13",
+    "nome": "Jordânia - figurinha 13",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 813
+  },
+  {
+    "id": "jor14",
+    "codigo": "JOR14",
+    "nome": "Jordânia - figurinha 14",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 814
+  },
+  {
+    "id": "jor15",
+    "codigo": "JOR15",
+    "nome": "Jordânia - figurinha 15",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 815
+  },
+  {
+    "id": "jor16",
+    "codigo": "JOR16",
+    "nome": "Jordânia - figurinha 16",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 816
+  },
+  {
+    "id": "jor17",
+    "codigo": "JOR17",
+    "nome": "Jordânia - figurinha 17",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 817
+  },
+  {
+    "id": "jor18",
+    "codigo": "JOR18",
+    "nome": "Jordânia - figurinha 18",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 818
+  },
+  {
+    "id": "jor19",
+    "codigo": "JOR19",
+    "nome": "Jordânia - figurinha 19",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 819
+  },
+  {
+    "id": "jor20",
+    "codigo": "JOR20",
+    "nome": "Jordânia - figurinha 20",
+    "grupo": "Grupo J",
+    "secao": "Jordânia",
+    "ordem": 820
+  },
+  {
+    "id": "por1",
+    "codigo": "POR1",
+    "nome": "Portugal - figurinha 1",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 821
+  },
+  {
+    "id": "por2",
+    "codigo": "POR2",
+    "nome": "Portugal - figurinha 2",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 822
+  },
+  {
+    "id": "por3",
+    "codigo": "POR3",
+    "nome": "Portugal - figurinha 3",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 823
+  },
+  {
+    "id": "por4",
+    "codigo": "POR4",
+    "nome": "Portugal - figurinha 4",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 824
+  },
+  {
+    "id": "por5",
+    "codigo": "POR5",
+    "nome": "Portugal - figurinha 5",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 825
+  },
+  {
+    "id": "por6",
+    "codigo": "POR6",
+    "nome": "Portugal - figurinha 6",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 826
+  },
+  {
+    "id": "por7",
+    "codigo": "POR7",
+    "nome": "Portugal - figurinha 7",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 827
+  },
+  {
+    "id": "por8",
+    "codigo": "POR8",
+    "nome": "Portugal - figurinha 8",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 828
+  },
+  {
+    "id": "por9",
+    "codigo": "POR9",
+    "nome": "Portugal - figurinha 9",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 829
+  },
+  {
+    "id": "por10",
+    "codigo": "POR10",
+    "nome": "Portugal - figurinha 10",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 830
+  },
+  {
+    "id": "por11",
+    "codigo": "POR11",
+    "nome": "Portugal - figurinha 11",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 831
+  },
+  {
+    "id": "por12",
+    "codigo": "POR12",
+    "nome": "Portugal - figurinha 12",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 832
+  },
+  {
+    "id": "por13",
+    "codigo": "POR13",
+    "nome": "Portugal - figurinha 13",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 833
+  },
+  {
+    "id": "por14",
+    "codigo": "POR14",
+    "nome": "Portugal - figurinha 14",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 834
+  },
+  {
+    "id": "por15",
+    "codigo": "POR15",
+    "nome": "Portugal - figurinha 15",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 835
+  },
+  {
+    "id": "por16",
+    "codigo": "POR16",
+    "nome": "Portugal - figurinha 16",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 836
+  },
+  {
+    "id": "por17",
+    "codigo": "POR17",
+    "nome": "Portugal - figurinha 17",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 837
+  },
+  {
+    "id": "por18",
+    "codigo": "POR18",
+    "nome": "Portugal - figurinha 18",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 838
+  },
+  {
+    "id": "por19",
+    "codigo": "POR19",
+    "nome": "Portugal - figurinha 19",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 839
+  },
+  {
+    "id": "por20",
+    "codigo": "POR20",
+    "nome": "Portugal - figurinha 20",
+    "grupo": "Grupo K",
+    "secao": "Portugal",
+    "ordem": 840
+  },
+  {
+    "id": "cod1",
+    "codigo": "COD1",
+    "nome": "Congo - figurinha 1",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 841
+  },
+  {
+    "id": "cod2",
+    "codigo": "COD2",
+    "nome": "Congo - figurinha 2",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 842
+  },
+  {
+    "id": "cod3",
+    "codigo": "COD3",
+    "nome": "Congo - figurinha 3",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 843
+  },
+  {
+    "id": "cod4",
+    "codigo": "COD4",
+    "nome": "Congo - figurinha 4",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 844
+  },
+  {
+    "id": "cod5",
+    "codigo": "COD5",
+    "nome": "Congo - figurinha 5",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 845
+  },
+  {
+    "id": "cod6",
+    "codigo": "COD6",
+    "nome": "Congo - figurinha 6",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 846
+  },
+  {
+    "id": "cod7",
+    "codigo": "COD7",
+    "nome": "Congo - figurinha 7",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 847
+  },
+  {
+    "id": "cod8",
+    "codigo": "COD8",
+    "nome": "Congo - figurinha 8",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 848
+  },
+  {
+    "id": "cod9",
+    "codigo": "COD9",
+    "nome": "Congo - figurinha 9",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 849
+  },
+  {
+    "id": "cod10",
+    "codigo": "COD10",
+    "nome": "Congo - figurinha 10",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 850
+  },
+  {
+    "id": "cod11",
+    "codigo": "COD11",
+    "nome": "Congo - figurinha 11",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 851
+  },
+  {
+    "id": "cod12",
+    "codigo": "COD12",
+    "nome": "Congo - figurinha 12",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 852
+  },
+  {
+    "id": "cod13",
+    "codigo": "COD13",
+    "nome": "Congo - figurinha 13",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 853
+  },
+  {
+    "id": "cod14",
+    "codigo": "COD14",
+    "nome": "Congo - figurinha 14",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 854
+  },
+  {
+    "id": "cod15",
+    "codigo": "COD15",
+    "nome": "Congo - figurinha 15",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 855
+  },
+  {
+    "id": "cod16",
+    "codigo": "COD16",
+    "nome": "Congo - figurinha 16",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 856
+  },
+  {
+    "id": "cod17",
+    "codigo": "COD17",
+    "nome": "Congo - figurinha 17",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 857
+  },
+  {
+    "id": "cod18",
+    "codigo": "COD18",
+    "nome": "Congo - figurinha 18",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 858
+  },
+  {
+    "id": "cod19",
+    "codigo": "COD19",
+    "nome": "Congo - figurinha 19",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 859
+  },
+  {
+    "id": "cod20",
+    "codigo": "COD20",
+    "nome": "Congo - figurinha 20",
+    "grupo": "Grupo K",
+    "secao": "Congo",
+    "ordem": 860
+  },
+  {
+    "id": "uzb1",
+    "codigo": "UZB1",
+    "nome": "Uzbequistão - figurinha 1",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 861
+  },
+  {
+    "id": "uzb2",
+    "codigo": "UZB2",
+    "nome": "Uzbequistão - figurinha 2",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 862
+  },
+  {
+    "id": "uzb3",
+    "codigo": "UZB3",
+    "nome": "Uzbequistão - figurinha 3",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 863
+  },
+  {
+    "id": "uzb4",
+    "codigo": "UZB4",
+    "nome": "Uzbequistão - figurinha 4",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 864
+  },
+  {
+    "id": "uzb5",
+    "codigo": "UZB5",
+    "nome": "Uzbequistão - figurinha 5",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 865
+  },
+  {
+    "id": "uzb6",
+    "codigo": "UZB6",
+    "nome": "Uzbequistão - figurinha 6",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 866
+  },
+  {
+    "id": "uzb7",
+    "codigo": "UZB7",
+    "nome": "Uzbequistão - figurinha 7",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 867
+  },
+  {
+    "id": "uzb8",
+    "codigo": "UZB8",
+    "nome": "Uzbequistão - figurinha 8",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 868
+  },
+  {
+    "id": "uzb9",
+    "codigo": "UZB9",
+    "nome": "Uzbequistão - figurinha 9",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 869
+  },
+  {
+    "id": "uzb10",
+    "codigo": "UZB10",
+    "nome": "Uzbequistão - figurinha 10",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 870
+  },
+  {
+    "id": "uzb11",
+    "codigo": "UZB11",
+    "nome": "Uzbequistão - figurinha 11",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 871
+  },
+  {
+    "id": "uzb12",
+    "codigo": "UZB12",
+    "nome": "Uzbequistão - figurinha 12",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 872
+  },
+  {
+    "id": "uzb13",
+    "codigo": "UZB13",
+    "nome": "Uzbequistão - figurinha 13",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 873
+  },
+  {
+    "id": "uzb14",
+    "codigo": "UZB14",
+    "nome": "Uzbequistão - figurinha 14",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 874
+  },
+  {
+    "id": "uzb15",
+    "codigo": "UZB15",
+    "nome": "Uzbequistão - figurinha 15",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 875
+  },
+  {
+    "id": "uzb16",
+    "codigo": "UZB16",
+    "nome": "Uzbequistão - figurinha 16",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 876
+  },
+  {
+    "id": "uzb17",
+    "codigo": "UZB17",
+    "nome": "Uzbequistão - figurinha 17",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 877
+  },
+  {
+    "id": "uzb18",
+    "codigo": "UZB18",
+    "nome": "Uzbequistão - figurinha 18",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 878
+  },
+  {
+    "id": "uzb19",
+    "codigo": "UZB19",
+    "nome": "Uzbequistão - figurinha 19",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 879
+  },
+  {
+    "id": "uzb20",
+    "codigo": "UZB20",
+    "nome": "Uzbequistão - figurinha 20",
+    "grupo": "Grupo K",
+    "secao": "Uzbequistão",
+    "ordem": 880
+  },
+  {
+    "id": "col1",
+    "codigo": "COL1",
+    "nome": "Colômbia - figurinha 1",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 881
+  },
+  {
+    "id": "col2",
+    "codigo": "COL2",
+    "nome": "Colômbia - figurinha 2",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 882
+  },
+  {
+    "id": "col3",
+    "codigo": "COL3",
+    "nome": "Colômbia - figurinha 3",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 883
+  },
+  {
+    "id": "col4",
+    "codigo": "COL4",
+    "nome": "Colômbia - figurinha 4",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 884
+  },
+  {
+    "id": "col5",
+    "codigo": "COL5",
+    "nome": "Colômbia - figurinha 5",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 885
+  },
+  {
+    "id": "col6",
+    "codigo": "COL6",
+    "nome": "Colômbia - figurinha 6",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 886
+  },
+  {
+    "id": "col7",
+    "codigo": "COL7",
+    "nome": "Colômbia - figurinha 7",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 887
+  },
+  {
+    "id": "col8",
+    "codigo": "COL8",
+    "nome": "Colômbia - figurinha 8",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 888
+  },
+  {
+    "id": "col9",
+    "codigo": "COL9",
+    "nome": "Colômbia - figurinha 9",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 889
+  },
+  {
+    "id": "col10",
+    "codigo": "COL10",
+    "nome": "Colômbia - figurinha 10",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 890
+  },
+  {
+    "id": "col11",
+    "codigo": "COL11",
+    "nome": "Colômbia - figurinha 11",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 891
+  },
+  {
+    "id": "col12",
+    "codigo": "COL12",
+    "nome": "Colômbia - figurinha 12",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 892
+  },
+  {
+    "id": "col13",
+    "codigo": "COL13",
+    "nome": "Colômbia - figurinha 13",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 893
+  },
+  {
+    "id": "col14",
+    "codigo": "COL14",
+    "nome": "Colômbia - figurinha 14",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 894
+  },
+  {
+    "id": "col15",
+    "codigo": "COL15",
+    "nome": "Colômbia - figurinha 15",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 895
+  },
+  {
+    "id": "col16",
+    "codigo": "COL16",
+    "nome": "Colômbia - figurinha 16",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 896
+  },
+  {
+    "id": "col17",
+    "codigo": "COL17",
+    "nome": "Colômbia - figurinha 17",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 897
+  },
+  {
+    "id": "col18",
+    "codigo": "COL18",
+    "nome": "Colômbia - figurinha 18",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 898
+  },
+  {
+    "id": "col19",
+    "codigo": "COL19",
+    "nome": "Colômbia - figurinha 19",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 899
+  },
+  {
+    "id": "col20",
+    "codigo": "COL20",
+    "nome": "Colômbia - figurinha 20",
+    "grupo": "Grupo K",
+    "secao": "Colômbia",
+    "ordem": 900
+  },
+  {
+    "id": "eng1",
+    "codigo": "ENG1",
+    "nome": "Inglaterra - figurinha 1",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 901
+  },
+  {
+    "id": "eng2",
+    "codigo": "ENG2",
+    "nome": "Inglaterra - figurinha 2",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 902
+  },
+  {
+    "id": "eng3",
+    "codigo": "ENG3",
+    "nome": "Inglaterra - figurinha 3",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 903
+  },
+  {
+    "id": "eng4",
+    "codigo": "ENG4",
+    "nome": "Inglaterra - figurinha 4",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 904
+  },
+  {
+    "id": "eng5",
+    "codigo": "ENG5",
+    "nome": "Inglaterra - figurinha 5",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 905
+  },
+  {
+    "id": "eng6",
+    "codigo": "ENG6",
+    "nome": "Inglaterra - figurinha 6",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 906
+  },
+  {
+    "id": "eng7",
+    "codigo": "ENG7",
+    "nome": "Inglaterra - figurinha 7",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 907
+  },
+  {
+    "id": "eng8",
+    "codigo": "ENG8",
+    "nome": "Inglaterra - figurinha 8",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 908
+  },
+  {
+    "id": "eng9",
+    "codigo": "ENG9",
+    "nome": "Inglaterra - figurinha 9",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 909
+  },
+  {
+    "id": "eng10",
+    "codigo": "ENG10",
+    "nome": "Inglaterra - figurinha 10",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 910
+  },
+  {
+    "id": "eng11",
+    "codigo": "ENG11",
+    "nome": "Inglaterra - figurinha 11",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 911
+  },
+  {
+    "id": "eng12",
+    "codigo": "ENG12",
+    "nome": "Inglaterra - figurinha 12",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 912
+  },
+  {
+    "id": "eng13",
+    "codigo": "ENG13",
+    "nome": "Inglaterra - figurinha 13",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 913
+  },
+  {
+    "id": "eng14",
+    "codigo": "ENG14",
+    "nome": "Inglaterra - figurinha 14",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 914
+  },
+  {
+    "id": "eng15",
+    "codigo": "ENG15",
+    "nome": "Inglaterra - figurinha 15",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 915
+  },
+  {
+    "id": "eng16",
+    "codigo": "ENG16",
+    "nome": "Inglaterra - figurinha 16",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 916
+  },
+  {
+    "id": "eng17",
+    "codigo": "ENG17",
+    "nome": "Inglaterra - figurinha 17",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 917
+  },
+  {
+    "id": "eng18",
+    "codigo": "ENG18",
+    "nome": "Inglaterra - figurinha 18",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 918
+  },
+  {
+    "id": "eng19",
+    "codigo": "ENG19",
+    "nome": "Inglaterra - figurinha 19",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 919
+  },
+  {
+    "id": "eng20",
+    "codigo": "ENG20",
+    "nome": "Inglaterra - figurinha 20",
+    "grupo": "Grupo L",
+    "secao": "Inglaterra",
+    "ordem": 920
+  },
+  {
+    "id": "cro1",
+    "codigo": "CRO1",
+    "nome": "Croácia - figurinha 1",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 921
+  },
+  {
+    "id": "cro2",
+    "codigo": "CRO2",
+    "nome": "Croácia - figurinha 2",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 922
+  },
+  {
+    "id": "cro3",
+    "codigo": "CRO3",
+    "nome": "Croácia - figurinha 3",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 923
+  },
+  {
+    "id": "cro4",
+    "codigo": "CRO4",
+    "nome": "Croácia - figurinha 4",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 924
+  },
+  {
+    "id": "cro5",
+    "codigo": "CRO5",
+    "nome": "Croácia - figurinha 5",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 925
+  },
+  {
+    "id": "cro6",
+    "codigo": "CRO6",
+    "nome": "Croácia - figurinha 6",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 926
+  },
+  {
+    "id": "cro7",
+    "codigo": "CRO7",
+    "nome": "Croácia - figurinha 7",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 927
+  },
+  {
+    "id": "cro8",
+    "codigo": "CRO8",
+    "nome": "Croácia - figurinha 8",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 928
+  },
+  {
+    "id": "cro9",
+    "codigo": "CRO9",
+    "nome": "Croácia - figurinha 9",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 929
+  },
+  {
+    "id": "cro10",
+    "codigo": "CRO10",
+    "nome": "Croácia - figurinha 10",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 930
+  },
+  {
+    "id": "cro11",
+    "codigo": "CRO11",
+    "nome": "Croácia - figurinha 11",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 931
+  },
+  {
+    "id": "cro12",
+    "codigo": "CRO12",
+    "nome": "Croácia - figurinha 12",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 932
+  },
+  {
+    "id": "cro13",
+    "codigo": "CRO13",
+    "nome": "Croácia - figurinha 13",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 933
+  },
+  {
+    "id": "cro14",
+    "codigo": "CRO14",
+    "nome": "Croácia - figurinha 14",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 934
+  },
+  {
+    "id": "cro15",
+    "codigo": "CRO15",
+    "nome": "Croácia - figurinha 15",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 935
+  },
+  {
+    "id": "cro16",
+    "codigo": "CRO16",
+    "nome": "Croácia - figurinha 16",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 936
+  },
+  {
+    "id": "cro17",
+    "codigo": "CRO17",
+    "nome": "Croácia - figurinha 17",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 937
+  },
+  {
+    "id": "cro18",
+    "codigo": "CRO18",
+    "nome": "Croácia - figurinha 18",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 938
+  },
+  {
+    "id": "cro19",
+    "codigo": "CRO19",
+    "nome": "Croácia - figurinha 19",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 939
+  },
+  {
+    "id": "cro20",
+    "codigo": "CRO20",
+    "nome": "Croácia - figurinha 20",
+    "grupo": "Grupo L",
+    "secao": "Croácia",
+    "ordem": 940
+  },
+  {
+    "id": "gha1",
+    "codigo": "GHA1",
+    "nome": "Gana - figurinha 1",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 941
+  },
+  {
+    "id": "gha2",
+    "codigo": "GHA2",
+    "nome": "Gana - figurinha 2",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 942
+  },
+  {
+    "id": "gha3",
+    "codigo": "GHA3",
+    "nome": "Gana - figurinha 3",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 943
+  },
+  {
+    "id": "gha4",
+    "codigo": "GHA4",
+    "nome": "Gana - figurinha 4",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 944
+  },
+  {
+    "id": "gha5",
+    "codigo": "GHA5",
+    "nome": "Gana - figurinha 5",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 945
+  },
+  {
+    "id": "gha6",
+    "codigo": "GHA6",
+    "nome": "Gana - figurinha 6",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 946
+  },
+  {
+    "id": "gha7",
+    "codigo": "GHA7",
+    "nome": "Gana - figurinha 7",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 947
+  },
+  {
+    "id": "gha8",
+    "codigo": "GHA8",
+    "nome": "Gana - figurinha 8",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 948
+  },
+  {
+    "id": "gha9",
+    "codigo": "GHA9",
+    "nome": "Gana - figurinha 9",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 949
+  },
+  {
+    "id": "gha10",
+    "codigo": "GHA10",
+    "nome": "Gana - figurinha 10",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 950
+  },
+  {
+    "id": "gha11",
+    "codigo": "GHA11",
+    "nome": "Gana - figurinha 11",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 951
+  },
+  {
+    "id": "gha12",
+    "codigo": "GHA12",
+    "nome": "Gana - figurinha 12",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 952
+  },
+  {
+    "id": "gha13",
+    "codigo": "GHA13",
+    "nome": "Gana - figurinha 13",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 953
+  },
+  {
+    "id": "gha14",
+    "codigo": "GHA14",
+    "nome": "Gana - figurinha 14",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 954
+  },
+  {
+    "id": "gha15",
+    "codigo": "GHA15",
+    "nome": "Gana - figurinha 15",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 955
+  },
+  {
+    "id": "gha16",
+    "codigo": "GHA16",
+    "nome": "Gana - figurinha 16",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 956
+  },
+  {
+    "id": "gha17",
+    "codigo": "GHA17",
+    "nome": "Gana - figurinha 17",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 957
+  },
+  {
+    "id": "gha18",
+    "codigo": "GHA18",
+    "nome": "Gana - figurinha 18",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 958
+  },
+  {
+    "id": "gha19",
+    "codigo": "GHA19",
+    "nome": "Gana - figurinha 19",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 959
+  },
+  {
+    "id": "gha20",
+    "codigo": "GHA20",
+    "nome": "Gana - figurinha 20",
+    "grupo": "Grupo L",
+    "secao": "Gana",
+    "ordem": 960
+  },
+  {
+    "id": "pan1",
+    "codigo": "PAN1",
+    "nome": "Panamá - figurinha 1",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 961
+  },
+  {
+    "id": "pan2",
+    "codigo": "PAN2",
+    "nome": "Panamá - figurinha 2",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 962
+  },
+  {
+    "id": "pan3",
+    "codigo": "PAN3",
+    "nome": "Panamá - figurinha 3",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 963
+  },
+  {
+    "id": "pan4",
+    "codigo": "PAN4",
+    "nome": "Panamá - figurinha 4",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 964
+  },
+  {
+    "id": "pan5",
+    "codigo": "PAN5",
+    "nome": "Panamá - figurinha 5",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 965
+  },
+  {
+    "id": "pan6",
+    "codigo": "PAN6",
+    "nome": "Panamá - figurinha 6",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 966
+  },
+  {
+    "id": "pan7",
+    "codigo": "PAN7",
+    "nome": "Panamá - figurinha 7",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 967
+  },
+  {
+    "id": "pan8",
+    "codigo": "PAN8",
+    "nome": "Panamá - figurinha 8",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 968
+  },
+  {
+    "id": "pan9",
+    "codigo": "PAN9",
+    "nome": "Panamá - figurinha 9",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 969
+  },
+  {
+    "id": "pan10",
+    "codigo": "PAN10",
+    "nome": "Panamá - figurinha 10",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 970
+  },
+  {
+    "id": "pan11",
+    "codigo": "PAN11",
+    "nome": "Panamá - figurinha 11",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 971
+  },
+  {
+    "id": "pan12",
+    "codigo": "PAN12",
+    "nome": "Panamá - figurinha 12",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 972
+  },
+  {
+    "id": "pan13",
+    "codigo": "PAN13",
+    "nome": "Panamá - figurinha 13",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 973
+  },
+  {
+    "id": "pan14",
+    "codigo": "PAN14",
+    "nome": "Panamá - figurinha 14",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 974
+  },
+  {
+    "id": "pan15",
+    "codigo": "PAN15",
+    "nome": "Panamá - figurinha 15",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 975
+  },
+  {
+    "id": "pan16",
+    "codigo": "PAN16",
+    "nome": "Panamá - figurinha 16",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 976
+  },
+  {
+    "id": "pan17",
+    "codigo": "PAN17",
+    "nome": "Panamá - figurinha 17",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 977
+  },
+  {
+    "id": "pan18",
+    "codigo": "PAN18",
+    "nome": "Panamá - figurinha 18",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 978
+  },
+  {
+    "id": "pan19",
+    "codigo": "PAN19",
+    "nome": "Panamá - figurinha 19",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 979
+  },
+  {
+    "id": "pan20",
+    "codigo": "PAN20",
+    "nome": "Panamá - figurinha 20",
+    "grupo": "Grupo L",
+    "secao": "Panamá",
+    "ordem": 980
+  },
+  {
+    "id": "cc1",
+    "codigo": "CC1",
+    "nome": "Figurinhas da Coca-Cola - 1",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 981
+  },
+  {
+    "id": "cc2",
+    "codigo": "CC2",
+    "nome": "Figurinhas da Coca-Cola - 2",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 982
+  },
+  {
+    "id": "cc3",
+    "codigo": "CC3",
+    "nome": "Figurinhas da Coca-Cola - 3",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 983
+  },
+  {
+    "id": "cc4",
+    "codigo": "CC4",
+    "nome": "Figurinhas da Coca-Cola - 4",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 984
+  },
+  {
+    "id": "cc5",
+    "codigo": "CC5",
+    "nome": "Figurinhas da Coca-Cola - 5",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 985
+  },
+  {
+    "id": "cc6",
+    "codigo": "CC6",
+    "nome": "Figurinhas da Coca-Cola - 6",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 986
+  },
+  {
+    "id": "cc7",
+    "codigo": "CC7",
+    "nome": "Figurinhas da Coca-Cola - 7",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 987
+  },
+  {
+    "id": "cc8",
+    "codigo": "CC8",
+    "nome": "Figurinhas da Coca-Cola - 8",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 988
+  },
+  {
+    "id": "cc9",
+    "codigo": "CC9",
+    "nome": "Figurinhas da Coca-Cola - 9",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 989
+  },
+  {
+    "id": "cc10",
+    "codigo": "CC10",
+    "nome": "Figurinhas da Coca-Cola - 10",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 990
+  },
+  {
+    "id": "cc11",
+    "codigo": "CC11",
+    "nome": "Figurinhas da Coca-Cola - 11",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 991
+  },
+  {
+    "id": "cc12",
+    "codigo": "CC12",
+    "nome": "Figurinhas da Coca-Cola - 12",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 992
+  },
+  {
+    "id": "cc13",
+    "codigo": "CC13",
+    "nome": "Figurinhas da Coca-Cola - 13",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 993
+  },
+  {
+    "id": "cc14",
+    "codigo": "CC14",
+    "nome": "Figurinhas da Coca-Cola - 14",
+    "grupo": "Extras",
+    "secao": "Figurinhas da Coca-Cola",
+    "ordem": 994
+  }
+]
