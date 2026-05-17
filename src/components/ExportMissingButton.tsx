@@ -3,23 +3,52 @@ import { jsPDF } from 'jspdf';
 import type { Sticker } from '../types';
 
 type ExportMissingButtonProps = {
+  stickers: Sticker[];
   missingStickers: Sticker[];
   total: number;
 };
 
-function groupMissingStickers(stickers: Sticker[]) {
-  return stickers.reduce<Record<string, Sticker[]>>((groups, sticker) => {
-    const key =
-      sticker.grupo === 'Extras'
-        ? sticker.secao
-        : `${sticker.grupo} / ${sticker.secao}`;
-    groups[key] = groups[key] ?? [];
-    groups[key].push(sticker);
-    return groups;
-  }, {});
+type StickerLine = {
+  prefix: string;
+  label: string;
+  missingNumbers: string[];
+};
+
+function getCodeParts(code: string) {
+  const match = code.match(/^([A-Z]+)(\d+)$/);
+  return {
+    prefix: match?.[1] ?? code,
+    number: match?.[2] ?? '',
+  };
 }
 
-export function ExportMissingButton({ missingStickers, total }: ExportMissingButtonProps) {
+function buildMissingLines(stickers: Sticker[], missingStickers: Sticker[]) {
+  const missingIds = new Set(missingStickers.map((sticker) => sticker.id));
+  const lines = new Map<string, StickerLine>();
+
+  for (const sticker of stickers) {
+    const { prefix, number } = getCodeParts(sticker.codigo);
+    const currentLine = lines.get(prefix) ?? {
+      prefix,
+      label: sticker.secao,
+      missingNumbers: [],
+    };
+
+    if (missingIds.has(sticker.id)) {
+      currentLine.missingNumbers.push(number || sticker.codigo);
+    }
+
+    lines.set(prefix, currentLine);
+  }
+
+  return [...lines.values()].sort((a, b) => a.prefix.localeCompare(b.prefix, 'pt-BR'));
+}
+
+export function ExportMissingButton({
+  stickers,
+  missingStickers,
+  total,
+}: ExportMissingButtonProps) {
   function exportPdf() {
     const doc = new jsPDF();
     const generatedAt = new Intl.DateTimeFormat('pt-BR', {
@@ -56,35 +85,19 @@ export function ExportMissingButton({ missingStickers, total }: ExportMissingBut
     doc.text(`Faltam ${missingStickers.length} de ${total} figurinhas.`, marginX, y);
     y += 10;
 
-    if (missingStickers.length === 0) {
-      doc.setFont('helvetica', 'bold');
-      doc.setFontSize(16);
-      doc.text('Album completo!', marginX, y + 8);
-      doc.save('figurinhas-faltantes-copa-2026.pdf');
-      return;
-    }
+    doc.setFont('helvetica', 'normal');
+    doc.setFontSize(12);
 
-    const grouped = groupMissingStickers(missingStickers);
-
-    for (const [section, stickers] of Object.entries(grouped)) {
-      addPageIfNeeded(14);
-      doc.setFont('helvetica', 'bold');
-      doc.setFontSize(12);
-      doc.text(section, marginX, y);
-      y += 7;
-
-      doc.setFont('helvetica', 'normal');
-      doc.setFontSize(10);
-
-      for (const sticker of stickers) {
-        addPageIfNeeded();
-        const text = `${sticker.codigo} - ${sticker.nome}`;
-        const lines = doc.splitTextToSize(text, pageWidth - marginX * 2);
-        doc.text(lines, marginX, y);
-        y += lines.length * 5;
-      }
-
-      y += 3;
+    for (const line of buildMissingLines(stickers, missingStickers)) {
+      addPageIfNeeded(8);
+      const status =
+        line.missingNumbers.length > 0
+          ? line.missingNumbers.join(', ')
+          : 'já completou';
+      const text = `${line.prefix} - ${line.label}: ${status}`;
+      const wrappedLines = doc.splitTextToSize(text, pageWidth - marginX * 2);
+      doc.text(wrappedLines, marginX, y);
+      y += wrappedLines.length * 7;
     }
 
     doc.save('figurinhas-faltantes-copa-2026.pdf');

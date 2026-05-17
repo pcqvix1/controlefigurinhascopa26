@@ -118,7 +118,11 @@ function App() {
         </div>
 
         <div className="hero-actions">
-          <ExportMissingButton missingStickers={missingStickers} total={stickers.length} />
+          <ExportMissingButton
+            stickers={stickers}
+            missingStickers={missingStickers}
+            total={stickers.length}
+          />
           <button
             className="secondary-action"
             type="button"
